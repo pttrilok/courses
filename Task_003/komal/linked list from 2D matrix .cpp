@@ -73,7 +73,15 @@ int main()
 	return 0;
 }
 
-// second method using recursion
+
+
+
+
+
+
+// second method for this question using recursion
+
+
 
 #include <bits/stdc++.h> 
 using namespace std; 
