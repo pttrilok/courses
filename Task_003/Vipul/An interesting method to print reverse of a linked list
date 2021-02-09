@@ -1,0 +1,78 @@
+//Using Carriage Return
+// NOTE:Above program may not work on online compiler because they do not support anything like carriage return on their console.
+// Youtube video explaination link: https://youtu.be/Z0diKd6Ht8U
+
+#include <stdio.h> 
+#include <stdlib.h> 
+   
+
+struct Node { 
+    int data; 
+    struct Node* next; 
+}; 
+   
+/*print the  linked list in reverse order */
+void printReverse(struct Node** head_ref, int n) 
+{ 
+    int j = 0; 
+    struct Node* current = *head_ref; 
+    while (current != NULL) { 
+   
+        
+        for (int i = 1; i <  (n - j); i++) 
+            printf(" "); 
+   
+        // carriage return to move back  
+        printf("%d\r", current->data); 
+   
+        current = current->next; 
+        j++; 
+    } 
+} 
+   
+
+void push(struct Node** head_ref, int new_data) 
+{ 
+    struct Node* new_node =  
+          (struct Node*)malloc(sizeof(struct Node)); 
+   
+    new_node->data = new_data; 
+    new_node->next = (*head_ref); 
+    (*head_ref) = new_node; 
+} 
+   
+// print and return length
+int printList(struct Node* head) 
+{ 
+    
+    int i = 0; 
+    struct Node* temp = head; 
+    while (temp != NULL) { 
+        printf("%d", temp->data); 
+        temp = temp->next; 
+        i++; 
+    } 
+    return i; 
+} 
+   
+int main() 
+{ 
+    
+    struct Node* head = NULL; 
+    
+    push(&head, 1); 
+    push(&head, 2); 
+    push(&head, 3); 
+    push(&head, 4); 
+    push(&head, 5); 
+    push(&head, 6); 
+   
+    printf("Given linked list:\n"); 
+    
+    int n = printList(head); 
+   
+    printf("\nReversed Linked list:\n"); 
+    printReverse(&head, n); 
+    printf("\n"); 
+    return 0; 
+} 
