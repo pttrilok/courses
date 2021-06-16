@@ -1,0 +1,38 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	int x;
+	cin>>x;
+	while(x--)
+	{   int arr[100000];
+        memset(arr,1,sizeof(arr));
+
+		int m,n;
+		cin>>m>>n;
+		if(m==1)
+            m++;
+		int r=floor(sqrt(n));
+
+		for(int i=2;i<=r;i++)
+        {
+            int small=(m/i)*i;
+            if(small<m)
+                small+=i;
+            if(small==i)
+                small+=i;
+            for(int j=small;j<=n;j+=i)
+            {
+                arr[j-m]=0;
+            }
+        }
+
+		for(int i=m;i<=n;i++)
+		{
+			if(arr[i-m])
+			cout<<i<<endl;
+		}
+		cout<<endl;
+	}
+	return 0;
+}
