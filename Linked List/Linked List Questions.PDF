@@ -1,0 +1,572 @@
+%PDF-1.4
+%¡³Å×
+1 0 obj
+<</Producer(Skia/PDF m93 Google Docs Renderer)/Title(Linked List Questions)>>
+endobj
+2 0 obj
+<</Annots[ 6 0 R  7 0 R  8 0 R  9 0 R  10 0 R  11 0 R  12 0 R  13 0 R  14 0 R  15 0 R  16 0 R  17 0 R  18 0 R  19 0 R  20 0 R  21 0 R  22 0 R  23 0 R  24 0 R  25 0 R  26 0 R  27 0 R  28 0 R  29 0 R  30 0 R  31 0 R  32 0 R  33 0 R  34 0 R  35 0 R  36 0 R  37 0 R  38 0 R  39 0 R  40 0 R  41 0 R  42 0 R ]/Contents 102 0 R /MediaBox[ 0 0 612 792]/Parent 94 0 R /Resources<</ExtGState<</G3 3 0 R /G5 5 0 R >>/Font<</F4 4 0 R >>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/StructParents 0/Type/Page>>
+endobj
+3 0 obj
+<</BM/Normal/ca 1>>
+endobj
+4 0 obj
+<</BaseFont/ArialMT/DescendantFonts[ 98 0 R ]/Encoding/Identity-H/Subtype/Type0/ToUnicode 99 0 R /Type/Font>>
+endobj
+5 0 obj
+<</BM/Normal/CA 1/LC 0/LJ 0/LW 1.33333/ML 10/SA true/ca 1>>
+endobj
+6 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=-1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]-1page1)>>/Border[ 0 0 0]/F 4/Rect[ 43.5 753.901 202.928 770]/Subtype/Link/Type/Annot>>
+endobj
+7 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/linked-list-length-even-or-odd/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=-1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]-1page1)>>/Border[ 0 0 0]/F 4/Rect[ 43.5 735.388 224.708 751.487]/Subtype/Link/Type/Annot>>
+endobj
+8 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/delete-alternate-nodes/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=-1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]-1page1)>>/Border[ 0 0 0]/F 4/Rect[ 43.5 716.875 183.518 732.973]/Subtype/Link/Type/Annot>>
+endobj
+9 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/identical-linked-lists/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=-1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]-1page1)>>/Border[ 0 0 0]/F 4/Rect[ 43.5 698.361 164.811 714.46]/Subtype/Link/Type/Annot>>
+endobj
+10 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/circular-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=-1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]-1page1)>>/Border[ 0 0 0]/F 4/Rect[ 43.5 679.848 151.571 695.946]/Subtype/Link/Type/Annot>>
+endobj
+11 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/find-the-sum-of-last-n-nodes-of-the-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=-1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]-1page1)>>/Border[ 0 0 0]/F 4/Rect[ 43.5 661.334 327.327 677.433]/Subtype/Link/Type/Annot>>
+endobj
+12 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/implement-stack-using-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=-1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]-1page1)>>/Border[ 0 0 0]/F 4/Rect[ 43.5 642.821 246.448 658.919]/Subtype/Link/Type/Annot>>
+endobj
+13 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/circular-linked-list-traversal/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=-1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]-1page1)>>/Border[ 0 0 0]/F 4/Rect[ 43.5 624.307 209.883 640.406]/Subtype/Link/Type/Annot>>
+endobj
+14 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/print-linked-list-elements/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=-1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]-1page1)>>/Border[ 0 0 0]/F 4/Rect[ 43.5 605.794 195.132 621.893]/Subtype/Link/Type/Annot>>
+endobj
+15 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=-1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]-1page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 587.281 259.83 603.379]/Subtype/Link/Type/Annot>>
+endobj
+16 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/modular-node/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=-1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]-1page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 568.767 147.838 584.866]/Subtype/Link/Type/Annot>>
+endobj
+17 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=-1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]-1page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 550.254 294.018 566.352]/Subtype/Link/Type/Annot>>
+endobj
+18 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=-1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]-1page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 531.74 236.45 547.839]/Subtype/Link/Type/Annot>>
+endobj
+19 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/node-at-a-given-index-in-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=-1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]-1page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 513.227 276.145 529.326]/Subtype/Link/Type/Annot>>
+endobj
+20 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=-1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]-1page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 494.713 268.363 510.812]/Subtype/Link/Type/Annot>>
+endobj
+21 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/find-nk-th-node-in-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=-1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]-1page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 476.2 234.141 492.299]/Subtype/Link/Type/Annot>>
+endobj
+22 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=-1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]-1page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 457.687 182.025 473.785]/Subtype/Link/Type/Annot>>
+endobj
+23 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/linked-list-matrix/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 439.173 167.241 455.272]/Subtype/Link/Type/Annot>>
+endobj
+24 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/occurence-of-an-integer-in-a-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 420.66 301.021 436.758]/Subtype/Link/Type/Annot>>
+endobj
+25 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/count-pairs-whose-sum-is-equal-to-x/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 402.146 288.559 418.245]/Subtype/Link/Type/Annot>>
+endobj
+26 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/rotate-doubly-linked-list-by-p-nodes/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 383.633 280.811 399.731]/Subtype/Link/Type/Annot>>
+endobj
+27 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 365.119 160.245 381.218]/Subtype/Link/Type/Annot>>
+endobj
+28 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/absolute-list-sorting/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 346.606 182.818 362.705]/Subtype/Link/Type/Annot>>
+endobj
+29 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 328.093 229.468 344.191]/Subtype/Link/Type/Annot>>
+endobj
+30 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 309.579 339.909 325.678]/Subtype/Link/Type/Annot>>
+endobj
+31 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/linked-list-of-strings-forms-a-palindrome/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 291.066 307.983 307.164]/Subtype/Link/Type/Annot>>
+endobj
+32 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/deletion-and-reverse-in-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 272.552 268.363 288.651]/Subtype/Link/Type/Annot>>
+endobj
+33 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/merge-2-sorted-linked-list-in-reverse-order/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 254.039 324.318 270.137]/Subtype/Link/Type/Annot>>
+endobj
+34 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/linked-list-in-zig-zag-fashion/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 235.525 239.586 251.624]/Subtype/Link/Type/Annot>>
+endobj
+35 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 217.012 310.312 233.111]/Subtype/Link/Type/Annot>>
+endobj
+36 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/rearrange-linked-list-in-place/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 198.499 244.252 214.597]/Subtype/Link/Type/Annot>>
+endobj
+37 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/compare-two-linked-lists/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 65.3875 179.985 219.343 196.084]/Subtype/Link/Type/Annot>>
+endobj
+38 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/union-of-two-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 161.472 203.799 177.57]/Subtype/Link/Type/Annot>>
+endobj
+39 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/delete-middle-of-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 142.958 224.808 159.057]/Subtype/Link/Type/Annot>>
+endobj
+40 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list/0/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 124.445 350.834 140.543]/Subtype/Link/Type/Annot>>
+endobj
+41 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 105.931 315.757 122.03]/Subtype/Link/Type/Annot>>
+endobj
+42 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 87.418 241.117 103.517]/Subtype/Link/Type/Annot>>
+endobj
+43 0 obj
+<</Filter/FlateDecode/Length 2649>>stream
+xœí]Ûnã8}÷Wèy€fóV¼ ‹¦{¦û¹gÌì\€Åö ÓûÿÀ–d'–fr²DÓJ¬$èŽ©XEŠU‡ÅªÃ²4¿3üOòvø÷×ÃŸ‡±…2)›”¥áÛ¯‡Ÿ¿þàK*Òô†ÇÿùïÍ0~ÿôy8þòí÷ÃûÏnøýÓmböƒ1Ö·øíð…¿‹oíøÃN·ûðpxÿ‰ï–T˜¾†‡ßæ±÷ï‚T0:ÄÈozøz[ƒJ9y—†‡_†hmü?‡‡ÿŒV.R4üwúñŠ™®üøpP:„8(Ç_ƒJã¨þÒÂÃ»Ü÷RGl8vÄ)möáÜ²¨‹”à¯Äé
+)“œÓ,þi¼zº”5–;Zr+Ø1áÜåãÈÊÙd,½Ü/,=WÑšÚ½2Þ'¾v¾ð\ÀÅÿøü0ðÀñÃjØ_ðpOÚÀJ®'eeÝ>þò’J›˜ÙÙÂ¬~ñåïÆœµ"ÃwIMmš6bÓw¯W-LP€qþûjôóªîX®*<”zô#zþÅ(.…«1yl¯˜‰¨)n„­à†`ù”4øhÐ‚ýHGª}	`¿¾³‡$X¬=7g­G]ev6*òÚ&×Ôìð:ÕÙìÐ*'š¬zË«¬Àêv¸ØU‘››u*²ðµÖæƒÒä¢1M­Ã[gkCJ' ?ºÞcåÁËE¥Wu÷ö$0Íúžyy¡•v¼¢ËMí&oÄnì©#F¹L9é‚õã‚jU+Š`%ð¨ªMšŽw24:(I¯Ù@5a8iµoì_E<ÏYÿì„Ø”BŽšl€Ž.d$t¥hÖyÏÿ¼ºàÁ“_H/BøÅ;b‡þ¶Fxç‰Ñ-¯Œò¤*6qŠMá†Œ¶²	G®eL IiºÓ©Æ}¸èàr/©Á.UœdÆÚ·û—­ÐÇ:«(Ç°}¬6|—Û:—8ú¼oÊöMÙò18*‚&ÏR}:Åy¥q0Áf”¶*Ø]D«•ÑÑ·å,|ÜZ`ÏjI½¡5L%îV^œÃÜ¬ë(ÊL&®5iÇ··:M©Gå‡ãÏh`¿ŸÙN×¤'AÛk	Æ¿Áde¯´ºz‚·‚Ý’°Æ<$Îà,îÇºíÔÝƒ³`ßBZy—W»"U{ªÕŸ’ÊYÛL³(T^e<á°‰ÀÖoº{¹
+lIÒ4FbÁ³¿¬‘Tð1¶ÍnbµëB
+,Y/Qz¡iú¦K
+{|&¾Rï,¼!·‡f3«¸6¨Ê+É}Ø”¶nenÛfîj0¦-ÏFd	h
+â(XTvº¡m¾:ˆÝeÜt¯`²²!¤•üjg¬
+ÑSè3] %›…[GêéÊuèÿaýípÒ¡­[Œ;öáù¡ôð¿^3ÎÝÈ›ŠV™ìôJwÊ9ÞË¦Ø8™‹-¯÷öí¹SÕPvsß#¼¯Í`ç0×Í‚QÉðNv%šù¬x£Ü8ÙŒ¯#z3µz¬©¦šµ;œú– ðMâÉ•watkÒÊŒ‘‰ç“ï„'](¸%xrïwÕHWG÷
+»L/á’ QF¼ª'—×ÖÈp)¨h“mËwÇfØ…‹Z’=üMd·Ãâ0q}D©ž»÷á‚özMÊzÓKy»P#K"‰ØÍBøWæM”¤dJ5*÷H `åíFPÎ.ÄP«§ñMf~ïñÔ# z-ïÔUˆ§~1+f3üR47.‹‡OÝáÓµ§hªÏÐžàçïEqáÂsl·&\ÿ<wµ%¨ë…—#¼ ,Þ³À²92Í¨úT3>9oõä±ÕFRRÑ“^™_öcÏæå»0–m†ŒŠìÛ`ýÉ×–e½öäÃ›Ý2âÙ¨}èx)¼^xzÁ„þ¢ø°IyãÓÊÃÂ>h“É½Ê›n…ã•´ºjeÞË½c† ´i¢
+”)˜•ö³´=€­`3tV¼EÀ¨\mSxUíRô†ÑÐëÃü|…¤|gTãÂæÖzÝ9ª¤Sã|¶¶Í°:ëã¤×/YÐº{ï÷»[¯Ãy%4ÿµ³¶qŽCÃfˆx!£@zr!þP]~Znö¤à0†fÀ×W.©¯Ö´6t!låD1ßIWÇJ÷ˆÕÙ Šc¯ôÊÓÓä¼JŽ¿`o†ëyï.BÅ.¨]"¾¾vz»úO>Ì¥­Ð°ûBXU¢¶Oõ«saâ±(×$ÁiˆºeÙÅzóÂz¼¯‚w.®„WrÊùlÚRé1¼n†úzëbNW`n6¡	Î¼¨ÃNäýƒx¼*Û-Ý¾±¤B²Z±†ð“»a@û¶Nï+°ô­ ¸Ò‚£3zK‘W´âÌ}¿²mËÂ[D”0Hê`º ¼õ+Ÿ”§.u#l…¿Ÿé¸4ü ž,"T_‰Àöú=€}«?hçÂ§‰· Ï›zÐI¥”Û&]1‘a+´mh‚O+3Ò´ ÂŽÆÂ'Ò0‰‡oµ`ü;¢ìÈ~T}d±,˜Ñ„¬éLTÑç°2lTí?Ü#õVHéŽæ*´84Rx¬¡hãYÿ¹!‚”@šÚëRPÿQ_OI„ç¬Ý“Ê&Ø¶%±µw¡f³§iBÈ=µý7&½gáê£+×Æ²1î0qýÏÇ?B-xîûÊõ:xåmnLÀ¼ò¸KP­±ÊõÈ«µ$ì6Ý‡núœ]%«²wsßØz¶B¿yî»~åƒù­½8ø=oõºëxŸÌ–½nÝ¼|{
+Ô+¢¹®¸;uÑ*~†]‰š`îZµû{aÓÛå(xKÚÊV);’Ú˜†¶­ÍYME¬çÖ3Ìw&y•/MV¼ÃÉmÏå`¬Ý
+ÍÛžÀÎ+2ÆÛTÂ¼)ínÊ–øê8ZŠ8JßŽéÝr	[Æ×œí)ãœ•ðs`á¢¢•hA°¼ˆ•.)†Ü^néV(Ûn›$Ç.œùÚƒsùËdÓ£âSf]ÒX#Œ†o¿~þnøã…²È%–öþ3˜ðŽ5ÏM_;W!SpyøÊÛºp´@?kþïá_/Õ´KfœÐ!±ä©>$ùY+<¯)3åäX°Mù,øØˆäÎëµ	å&•#Ù0Ê'°;7"¹óúIòñZ¯í8à±lÍÔfÍHô¼4|È.{šDû4{dÎtˆ‡K‰M2ŽÏYçwÞ
+$/ÎÿËG«yÃ3ÎðxÈõ¤YO­Hòü «|ÌÄ“9Óxþë¨[O­HòüŒ—L²ÕÊ²ÅòÍøisó¹IžŸÇÙ„ GÉ'}>½F2çŒcñhM h­õ³×@æœú(&{€1Ó4µOJõÔŠÏ©<òÁ²ýÓdHöÑÎ­HòœVP#9Ï‡ì}N£™f¯‘ÈyT<XY;F‘1œ_"‰ó‘|bu6i‚)~	$.bÎò1RänªÄ·<¿F2ç±ñ(]tü3Ê´³eþÔŠ$Ïv2òÁZkÜÑTIýµõ(øËáÿÉ9C
+endstream
+endobj
+44 0 obj
+<</Annots[ 45 0 R  46 0 R  47 0 R  48 0 R  49 0 R  50 0 R  51 0 R  52 0 R  53 0 R  54 0 R  55 0 R  56 0 R  57 0 R  58 0 R  59 0 R  60 0 R  61 0 R  62 0 R  63 0 R  64 0 R  65 0 R  66 0 R  67 0 R  68 0 R  69 0 R  70 0 R  71 0 R  72 0 R  73 0 R  74 0 R  75 0 R  76 0 R  77 0 R  78 0 R  79 0 R  80 0 R  81 0 R ]/Contents 105 0 R /MediaBox[ 0 0 612 792]/Parent 94 0 R /Resources<</ExtGState<</G3 3 0 R /G5 5 0 R >>/Font<</F4 4 0 R >>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/StructParents 1/Type/Page>>
+endobj
+45 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 753.901 356.224 770]/Subtype/Link/Type/Annot>>
+endobj
+46 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/rearrange-a-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 735.388 203.034 751.487]/Subtype/Link/Type/Annot>>
+endobj
+47 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 716.875 183.576 732.973]/Subtype/Link/Type/Annot>>
+endobj
+48 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 698.361 211.581 714.46]/Subtype/Link/Type/Annot>>
+endobj
+49 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 679.848 259.017 695.946]/Subtype/Link/Type/Annot>>
+endobj
+50 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/xor-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 661.334 146.252 677.433]/Subtype/Link/Type/Annot>>
+endobj
+51 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 642.821 367.88 658.919]/Subtype/Link/Type/Annot>>
+endobj
+52 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/insert-in-a-sorted-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 624.307 189.794 640.406]/Subtype/Link/Type/Annot>>
+endobj
+53 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/find-length-of-loop/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 605.794 171.969 621.893]/Subtype/Link/Type/Annot>>
+endobj
+54 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 587.281 419.988 603.379]/Subtype/Link/Type/Annot>>
+endobj
+55 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/modify-linked-list-1/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 568.767 178.131 584.866]/Subtype/Link/Type/Annot>>
+endobj
+56 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/split-singly-linked-list-alternatingly/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 550.254 272.237 566.352]/Subtype/Link/Type/Annot>>
+endobj
+57 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 531.74 264.441 547.839]/Subtype/Link/Type/Annot>>
+endobj
+58 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/merge-list-alternatingly/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 513.227 203.027 529.326]/Subtype/Link/Type/Annot>>
+endobj
+59 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/move-all-zeros-to-the-front-of-the-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 494.713 329.763 510.812]/Subtype/Link/Type/Annot>>
+endobj
+60 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 476.2 340.674 492.299]/Subtype/Link/Type/Annot>>
+endobj
+61 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/arrange-consonants-and-vowels/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 457.687 211.609 473.785]/Subtype/Link/Type/Annot>>
+endobj
+62 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 439.173 205.337 455.272]/Subtype/Link/Type/Annot>>
+endobj
+63 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/linked-list-that-is-sorted-alternatingly/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 420.66 290.909 436.758]/Subtype/Link/Type/Annot>>
+endobj
+64 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=2&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page2)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 402.146 267.598 418.245]/Subtype/Link/Type/Annot>>
+endobj
+65 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=2&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page2)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 383.633 178.145 399.731]/Subtype/Link/Type/Annot>>
+endobj
+66 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/decimal-equivalent-of-binary-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=2&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page2)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 365.119 302.565 381.218]/Subtype/Link/Type/Annot>>
+endobj
+67 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/remove-every-kth-node/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=2&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page2)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 346.606 211.588 362.705]/Subtype/Link/Type/Annot>>
+endobj
+68 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=2&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page2)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 328.093 340.674 344.191]/Subtype/Link/Type/Annot>>
+endobj
+69 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=2&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page2)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 309.579 290.117 325.678]/Subtype/Link/Type/Annot>>
+endobj
+70 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=2&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page2)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 291.066 275.318 307.164]/Subtype/Link/Type/Annot>>
+endobj
+71 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/insert-in-sorted-way-in-a-sorted-dll/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=2&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page2)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 272.552 255.894 288.651]/Subtype/Link/Type/Annot>>
+endobj
+72 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/subtraction-in-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=2&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page2)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 254.039 208.473 270.137]/Subtype/Link/Type/Annot>>
+endobj
+73 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/intersection-of-two-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=0&page=2&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]0page2)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 235.525 217.04 251.624]/Subtype/Link/Type/Annot>>
+endobj
+74 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]1page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 217.012 234.168 233.111]/Subtype/Link/Type/Annot>>
+endobj
+75 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/merge-sort-on-doubly-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]1page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 198.499 258.238 214.597]/Subtype/Link/Type/Annot>>
+endobj
+76 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/lucky-alive-person-in-a-circle1229/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]1page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 179.985 274.573 196.084]/Subtype/Link/Type/Annot>>
+endobj
+77 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]1page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 161.472 205.35 177.57]/Subtype/Link/Type/Annot>>
+endobj
+78 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]1page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 142.958 333.678 159.057]/Subtype/Link/Type/Annot>>
+endobj
+79 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/polynomial-addition/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]1page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 124.445 182.06 140.543]/Subtype/Link/Type/Annot>>
+endobj
+80 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]1page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 105.931 315.798 122.03]/Subtype/Link/Type/Annot>>
+endobj
+81 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]1page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 87.418 358.568 103.517]/Subtype/Link/Type/Annot>>
+endobj
+82 0 obj
+<</Filter/FlateDecode/Length 2912>>stream
+xœí]ÛnÜ6}ß¯Ðs0¼_€¢@â6yNk Ð¦Š¦@ÓÿJie/µö‘5#®–Ë6Ú]*ÒpÈ¹Ïp¤:™ß¨üŸhu÷Û—Ã¿‡~Ä%'\?$´ë¾~>üú]÷O¾$‚nxøþ÷ªëþØ?|ýóðö£éþüoxLH¶SJ›þ>åßÅºÿË ÆÇ½¿?¼ýŸ…~ºû?êaöo¼î„WÒ‡oºÿrèG½ˆ)Z»ûß»ï¥Tþ‡îþ¯ƒ’ÂTþwòáÊ{xEW~º?é}è„É?ˆ=¾g#ñù)*ûâ;NÄt²þ4Ñ<^Éje”ÅoIÃ•$ŒŽJ»@ÔˆZéŒÀéŽ aà	tÅ~®X¡¬ÒéÂºà&B?ÎØ	‘yå¬0 %Î=ÃÌN¡Í…°1âŠº¹3[Ÿ…ÖjŠ¢ÑöåE)7J%6ª|Ô”Ë+p¹JŠË|ñ<Åoêè?-áªÍç‹6$<H¶OOo’Â)cuÜHþÞÝ°üá8DÙ`œÃ»ö¼Bæþ"r\$°g0YÄ>“; ò©8_û(™„Ô>:W•0ºP£nÌ?²±&!›"«)°óÁ&| BÉtuüð9)EðÑ¦—©JË9^Ó¡·t4ñ&ŽmyM†¯@7~‘…E¦¹ë_Á§sâÎí4­g½È”Úˆ]#œhâDÌo8â€œ1ìrA.Á¤ÂPŠ×tjŽ(MfÖá¾KˆaV2=qÛˆðV8”I‰ìrn,"F~×ÂZ“]ý%\øj§9šVŠFd!ãÂF‡¯´ÊØCÉ—%Ó5F„¾=J·ó¯h(,‹>K•^žÔ}¾ZôYK%\2i+#sëÆýârº…>#óyE‡šp[Æè«ð¾A[Gk)”¶nÚc›a¨r8¦/DW…¡¢	F0N™áëÒÑ_ØcÄ“:)ëâºx²6ùñZÆ!u#2í=Ý>|>U¸\’· líGà¹b¡¹ÉàwÐW¡ÊGºé%-žöèaéÛ3ü©å05ãj7™kÌÄWÇè_=‰§Oœ¤;âŽ/b)#ØØIy¡_á¸OïÈ;ÐrÍ ƒöd¼¨$Dýj¬zš©†¤‡£f20îãDªõØår\Í’{pÂÛ¶J#6S|æ¥U3ÊIÞ*hh1ˆ×ªAbçÁKñàŒýwƒQ;L~¼ìŒxû²Í]¦ï'ØOŒ‡»9¡•ò^©ºUHØ™i¥âO{è%A3‚^l„X‘›Ü3ù(TPå`}G—YUC€+SX!ú'žÿóâÄd+ÀëüFâ¤•¢FhòÓ5LÕÊø]Mo§¦ë˜Œ€¯ŒÊÓ
+•S‹˜žš)Q¼jeCj£PgüH-C–SõŒ BäGq¬¬-*7êÕ“T¯^Å½¨cn’×&²¡Q77i¼•ÊOÎ1Nê§^-ã ðFµéäƒØXñ@QWÏv‚«E®jkiy“FÅË1T¬ï²äÓd«ÊlÊ.girÖÇÙF»‘œm¥Þ¢XV
+½¾Œã)]>ùÎ:SN?:|…™åÂÕtµ8.
+`ˆèEÐQ×= €¢•jRìò1˜îÒÓsVä*È#¶èŽ×ÿE"èyn³Ò	mÕVÌÖJªþ ·ðÕÒIM/œl¼|–âÆJÐo"Ž<©:ƒÅR5Ë»xé^«Mþä6K÷¶RÌq+¯Í`œ-¹öIûzk®[¼³Iží´héìWï££½!é×{°}+Îê«04Sc
+IÏèq(69*|5ðÙ¦€ä{Î‰*Õ-«ÆûÙJ)+#AV$°ƒn‡2ÚÂ`FÄ(BTP"œ‘ÖÞâ ~Íó6°~#:è27®þâøvR6$¡“³uêqè¥•ÚÔÛk²E›L*O>h½µ`…D”±rv³B+u•zœÈÓS¼xéY -ò3ÄÂ8‹õ[µþ³z¯\(XÏ¢7¡[(«¯-29U¹ÆLx•OCª³9—¥‰ÑºrÍVŠf9ýx*†ÌÉJnÕ‹ÍbF™Ã5ë7«*˜Ëë4Ü¹PÙV]af¬ˆÆùº' °0k¥Ÿ.n”®éä{Ífh°ž´^Wr…ˆŸ<rHçÄXC¡çŒ06©ºUóXZµRÍycÜùŒm£RšÕ$‹ê®½öF“Œ¤°Í`RžîªœpžŒˆ^WÎ	cáÓJå,Üs¼QÐeÅ.ù%`mºwû{Uªæ©©]/£É›µŒž¤+gÂ1£·RµÛ¦•Q•m7é [5.Ãh³{]ñPsÂÕåCÊþCôQ­^FcÚ*kÖJµëžÝetÒ¥'rgI¨]9ý£°ñDwmp¶‹N†BagnVÂÊ°€9ç¥¢þ±8h¥V”Ó^yƒæD¸¨ôÜÃúÇ]·âf&³¿÷šd™#VšsBá&¢0*È•Mú½u")¯ë¶GÃ¨•Ò]L»ÕZ*’¹ fK¾j•t3Ç«%â[¢ÐÏ\:³Ä°‰¡S5SRû×+X:¤æùyo…Õ©rª;7­ÔÍV­ž¯ÕÒõ[±r^—ÑP%†úšÝLH+m†¨E²¦r*só^ú;\ØK÷Ò_qí¥¿ÌùrÊL²µ$¬ó®n€ËÆV*|Y1>jü€s¼‹-hgU<WÉˆ¢2^¼sÃ¸°^ëU\™B*‰ì)¤º5ò˜ƒZ)+Ý4âýíÖÈ_9×°Ea[¥wÈ±šD1¢A—r•¾aÛb®Ÿ(–vYXY¿À½™•Ê&ŠŒÂVfM3Õ³Ô8«­éÞ¹¤©®z›dþé®ùŒR_	õõ=n—ˆËe›ç‹w·Ô¦·ÇoNÅ}»éª
+·éƒºŠ]À`¢2IEKöŠ¡€KyíºØwºrÝ×Ï‡_¿ëþyFgÂ%rúíG×k”7™çÌðÓe'`ø`»/FŠÑ¿¿<§¦’îñ¯lÈ)j™|†¬‚ ‡b@V2	ùØ÷‹Z§àòšfÐöˆkFå4Œ`ëÐ“òXGÂG;Ëº˜zØÑhGèìõeþJ­CÛ«ì÷eÐzD»E ½ÎeÒ:¬Uæ/A§‘Êl1Š@G#²äpaÒÚõç‘2'{"ðq@ÖR	—LZ‡sÌŽzèYK¹PPÙ8Œ@k)”vW«,tä Ú˜ô8Œ@gëÓk×ñV4±mÜ—ƒ=îñøÁ,ßÍG×ÙÌ»?«Ýã0]¾·—®4Ò«ž§¼?‘×8Š —/ßä#­¢˜ÙùÓW qò~>6Äàƒvú\b£rù36d³Ð˜ØÚâ;‚Y¾»‡­ÉFE¯$Œ+4ã8Š —o³àck}î\EŒ£rùÚ 6dŸœ7ƒr
+AœÈeu>Ê*ÛG±§æ¤‹ïdÙÎ˜¬KY—÷œ{ö4ˆà–]G™p£è­&¬Fà²÷#aÍ—c#cñÁ,Û°ñ‘Íj×™)-?Ž"Èe×+6¶.fï1œóï8
+ OZÇðq–Ùñ1ËÈ£rÙç³Ë[:°QÎÇQ¹<³Íƒœm–l2õþjo[:q>Š —6ù8+ïå •¢ç£ry‚Œ³òÎøAN'#ÎGäòh
+eeH=`­|ñ,ëßùÈfYàÂ°Á±øŽ`–¯|<­MÑŸ“ó8Š —Uplle2Gü¨Ü²^‡±L*vN:é¤ã €;É…óñu!O~PJ£˜ÖÅ0]&ùˆ`ò_³v'œÇQ¹”óqÖZ™ÁÀË[w¤®Óèð§ÃÿáÌ“
+endstream
+endobj
+83 0 obj
+<</Annots[ 84 0 R  85 0 R  86 0 R  87 0 R  88 0 R  89 0 R  90 0 R  91 0 R  92 0 R ]/Contents 108 0 R /MediaBox[ 0 0 612 792]/Parent 94 0 R /Resources<</ExtGState<</G3 3 0 R /G5 5 0 R >>/Font<</F4 4 0 R >>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/StructParents 2/Type/Page>>
+endobj
+84 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]1page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 753.901 217.798 770]/Subtype/Link/Type/Annot>>
+endobj
+85 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/delete-keys-in-a-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]1page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 735.388 224.023 751.487]/Subtype/Link/Type/Annot>>
+endobj
+86 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]1page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 716.875 330.549 732.973]/Subtype/Link/Type/Annot>>
+endobj
+87 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/swap-kth-node-from-beginning-and-kth-node-from-end-in-a-singly-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]1page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 698.361 532.773 714.46]/Subtype/Link/Type/Annot>>
+endobj
+88 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/given-a-linked-list-reverse-alternate-nodes-and-append-at-the-end/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]1page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 679.848 471.38 695.946]/Subtype/Link/Type/Annot>>
+endobj
+89 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]1page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 661.334 327.502 677.433]/Subtype/Link/Type/Annot>>
+endobj
+90 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=1&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]1page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 642.821 198.368 658.919]/Subtype/Link/Type/Annot>>
+endobj
+91 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/quicksort-on-doubly-linked-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=2&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]2page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 624.307 246.582 640.406]/Subtype/Link/Type/Annot>>
+endobj
+92 0 obj
+<</A<</S/URI/Type/Action/URI(https://practice.geeksforgeeks.org/problems/reorder-list/1/?category[]=Linked%20List&category[]=doubly-linked-list&category[]=circular-linked-list&category[]=circular%20linked%20list&difficulty[]=2&page=1&query=category[]Linked%20Listcategory[]doubly-linked-listcategory[]circular-linked-listcategory[]circular%20linked%20listdifficulty[]2page1)>>/Border[ 0 0 0]/F 4/Rect[ 61.5 605.794 133.811 621.893]/Subtype/Link/Type/Annot>>
+endobj
+93 0 obj
+<</Filter/FlateDecode/Length 1151>>stream
+xœíZÛŠ9}ï¯ÐóÂhT¥;,d’Ìódû›M`É’ýØên;–ÈœvKv³Ø63¶d÷©’ªN]Ô¤Œ<ïHþ$Çê¯çáÛ0Žøìµ‡4{õýïáÏßÔW™ÒÑO?8ü—ï“ŸÕüæûçáþÑªÏÿN—‰Ù)"¶ã%>Oò\}ùÈãK ´SóK0~¼?Â¼Ù÷ï%é0=ÔîÓ@­î+È„åb»ça:åälR»êwcèõ+µûg £mô‘ä{æ0“àM3ïvƒ6!D¥­<”N“ŒõˆHº,"¹“"z?ÁÍÄò½b8( 7óŒ,³3É’§™¬-'b¿„ëý4î49—dn8ž±Íðž.¦I†{×º¾.n oxY*þô³cf£=YÇiôÏü0_‰âYØD¸%Øyg¯)YkýWl6:ÿ Ê^èn~Ûî·f²lq„ùÍ)ûgÃ:äO;*›j “µá¼ßˆðÌÕÇèæ€‹01tðÅÍÕZ]ígšÞ‚¡ÙCÁ¶7˜{µFƒ]"úQ“|\EN)4ª^]ª\_\£§Yv`GÊ¨!òÁR(‘äøƒ·‹Bµ3¸uNGK9ŸÉàÇ¢“ÝˆÁß\	ƒÛy‰µsV6ý¸S{Ù­v‘³g@ºì([ ùál/²QÈ3˜zr^¨bªt*p!¶ïÈÝ¡ÑvPùBØëˆ”ØVEöu\Wïý\eÄ”	ñ*¢­Ä-ù¿¶–uŠà°ÊˆKUÖq%p³w¬ŽM„!«9*ÖVWê~¹8Š5gÊ$°Ê@õ[Ië‚?}%œŒ`yW¥¿{{¦À=-"rAKŒDeW’EôÄŒöBðÖC¹¦Âîÿ^ûã†~{§êig.|U;¶Gõ­²Šæ6* øÅBMàÌFY
+–™Üüöìt¥…U‘·YÚ›Þ²ö&°=³œö!’Íã¸rÅeóí¨§…Á~]qßÌ`p³º'(<nR)7÷VL«x¹Ð	-­"¨¸.Â%H{¨Åõp{×í*fjBÈõÝgjÖÎ²ôç‘p²ÚHÍ7â`\*lËÁ¼?÷'m³ÏÉ¤—í´bÚvëqÄkjåÝj¹µ\»ïR´:D+ÙãY¾Ë†´Ï6o•?Á.÷ÖÇáØ± Íu¨ÆEÝfdø8U¥Í­ ÑÞ³~Ós˜»p Ëû5ÝÐÍœC3,uZŒÓ™4ÃF“‰ó-¼ÐL¸š±{£~áhGïfè*““õ_sëf××+6îþÑ&v'o§‡¢<¿sêy ì¦Åè—á“·’v#çÄ&Ažîb; ïGr}§Z74çèeMŸë¼žU=Ž"èê‹~­ÅÞSè@ózçbAWç2ýZŠ4B{ËÅgZu‘úõ%ñ7ž–šŽK½EÐeíÔ¯.ûL#2…T|˜UÎ×™¢qô&¶ûáb!—a ™²°Ôˆœfg
+®‘Ÿ†ÿ ‡]jb
+endstream
+endobj
+94 0 obj
+<</Count 3/Kids[ 2 0 R  44 0 R  83 0 R ]/Type/Pages>>
+endobj
+95 0 obj
+<</Pages 94 0 R /Type/Catalog>>
+endobj
+96 0 obj
+<</Filter/FlateDecode/Length 25691/Length1 43104>>stream
+xœì½yxTEö?\Uwíýö¾¦—tº³t DseÙe‘ ‚€ìJØ	Ê&¢¢3îŽ‚+:2P‡ŒÃà¸00ƒƒÛ(¨¨¸DEFtÿNÕíù}çýã}ÞgÞçÛ>÷Ü{ënUç|ÎRU7#„œ@xÔmPÿIy!\[ç9btÃ€M`ýyX?3hôØ¾ÆßI"›`½ÛˆÑ%¥K<{’°~ÖëÆõ6~ä=³¾Gˆë†ýWSæNžÇW
+)„\`Ó”Å£›Co}‰{	Bâ˜kçMŸûÆÒš‡
+¾ë×MŸ¼`ò!B¹ôúÊô9K¯¿·ÎïÐÜ3¦Î]b|êz(»qByÆ´ÉSO¸Âùâf(ßclp”=¸
+ÖófÌ]¸ä“˜ë8¬ogX8çú)“
+ÝÒÎ?öÿnîä%ó„½–„ÁzôºÉs§yëº¿ëp}ÜÞõfŠÐ}=Ò@÷Ï›?m^âØ°ý°Ïoú¢uG¯L?)l‰_kv N…/FyðÅ(‰ò¢" ÅðÅ¨uZ_Œ*P ½à‹QøbÔ:Õ¥×3¢¾h"â¦,?OŸ?m6ŠÎ™¼ð:ä‚„O&¥Hwà¡afO›e;RvÏˆ•#H†¥Ìî˜eBkPºMEà."õf?{882ž£î{0‹j ÌDØcÏÌ`ô. ƒ3ïÑÚ jOÿ€ò`µ&4~ÊäÀ¶»àJÐ(5~á‡‘‹%…>sWø
+“çO¾EÙ“Gµ'Ÿ1íšùÙçfÛãÖáH@²ðPÔ–Ü_ÐµÄ!Ä$ò„~èóq¨ÃgØˆá#àé¢h«p4=
+—I—â*Â¨9Ä'…¨ í(ÓÀq˜`Œ|ÂW¦ôƒœš“3i_C¦îÙÔ„L@ÍÈÔ‚,@­ŒÚ¨‚l@í@/ ÔÇPru=<Pç‘¹ú€žC~ä>€üÀQ hˆÑF¡Ì(Âhå ¡Ð\
+-b@(hè?A&ã@ Æÿ	mšZÄh
+ågÎ‚” íÂhWT´¥€vC]€vú=*E]–¡ å¨[æÈ2¥=Pw =QÐ^¨<óªd´7ª Ú‡Ñ*Ôè%¨'ÐKQ/ Õ¨2ó-•5 —¡>@û¢* ý€þtâ Ð¥@¢êÌi4©@/G—Œú½‚Ñ!¨Ð¡¨?Ðah`æÐ$JG A@G¢ËŽ9ý]ÉèhtÐ1hH¦dzÐqŒ^…†Fd¾I	tÐVt5üD4h-ôŒNBc3_¢:4èdtÐk€~¦€œAõ	è4t5ÐkAâ?GÓjÎD¿ÈœB³Pð³ƒ&‹®í×¡)@¯gtššùÕ£i@ç£é@0ºÍÈ|Š¡™@£Y@o ú	Z‚f]Šæ½]ô&F—¡ë.Gó€ÞŒê3'Ñ
+FÐ +ÑB · E™Ñ­h1ÐUŒ®F7d>„Xt-Z
+tºèmè¦Ì‡h=Zôv´¶l ú!ºÝôN´è]h%Ð@O »Ñ-@ïA·ý%Z•9Ž~Åè½h5ÐûÐZ ÷£u°÷ ÇÑƒè6 ¡õ™ÐÃèv  @Íè£èN ¡»€nBnú>zÝô	tÐ'Ñ/>…~•ù;zÝˆóºèt?Ðg}= ô7èA Ï£‡neô·è ÛÐ¯6¢Gnú.ÚºmÚ„Ï¼ƒv¡'2o£ÝŒîAOmFOÝ‹žºÑÐ /¢g3o¡—Ðs@Çè~ô -èy ¿G[¾Œ~ôh[æ:€þmÏüdô´èŸÐÎÌ›èUÔô5´èëh7Ð7Ð ‡P3Ð?£½@3zíúô"Ð¿¢—2GÑQ Eo¢ßýÚôjÉü½ÅèÛèe ï ? } ú£Gú>:ôôJæ:Îè	ôjæ0ú½ô#ô:Ð=‰Þ ú	:ôSôg Ÿ¡#™?£SŒ~Žþôô×Ì!ô%:
+ô+F[Ñ›@¿FÇ2o oÐ[@O3úô6ÐoÑ;@¿Cï=Ãè÷èï™×ÑYô>Ð¢€þ ô5ô#:ô:ô<úèFÛÐÇ™WQšAŸ ý_LÿÓÿñ_Žé_þÇ˜þù¿ÁôÏ†é§þ¦ö3Lÿô?Àô“í˜>¿¦üo0ýc†éÿÓ?b˜þQLÿˆaúGÓ?ê€éþÓO0L?Á0ýÄ!¦¿óÿ¦¿ù¿˜þ¿˜þ_‡éÿí~ú/¦ÿ;?ý1ý1ý_cúŸþ€é4û¦es\,÷†X6Œæ(óXÎ†ÚðìÀ¨þ€Aƒ]F†Œ¤˜	¶	Z.Ãò;] +i©~€WƒFÞÐR“AÃY©ÌÇÿ×ï”Ìvýÿñ#ìC~ø„gŸO‚Å@€P–é™™St?]’/ psö‡@ò·â™ áûÑËø4µ¤´	äÉÏõàÃ¯@ÃEÀ¼?v_	_¶ÿ
+û3M`	6CÝléòJÞríÁ>À©h5wŽZv/ž|$`Öxhf åqþV°CËæá†ÌøÌ™{2O‚>îåþÄlf pr
+HÇ×ÂÛ ¡]àˆ{Aëã{»À&\¸´—û5 ÞC\-3ÓÁêq`ån€{àåá’‚³OCŸa^Æõƒ³<‘iÌ€R!@é€ûpDbÂÄÌ0)\c	œõAÐâÝðm]|›…Ó™'ÁnøÁþ†çiBÆ-\ºmeºšV4ÔR!´ý`x®ßþÁqü{r½`JU¸4Ê–q,Üí3pä§øŸäfø®àò3}ÁX¸µZü!à<#…äzò(7üˆb8¶;Ø‰™PßÀÙ?À)¼›˜Éaî	þ7üy1'}"c…Iþý[àI£x¾Ã“~dy˜|ÄýŠ–ÿ«4žú`=î 4û'và^x¾ÏÀËðZ|7~ÂGð)rCf“o¸\=÷ß¾£ùü­ÂávñTz|ú@ú/éfJ3kÀ^.›p7´É£ðd{KÞïqô°	[áÅ1<ßß›ñøq¼?‹›à*GðGøsü-þŸ' ZD$A#¹ð“ùäò+ò9ß#ä+ò#çår¹WÁUq5ÜõpWk¹ðÝÅ}ÈøÃ|ê¹T¸OxLØ"üFxY8-š¥[À{ãÂmEm¤Qz]ú¾ôŽtX7´a j!žÆ(Ð¹É`]—€ey
+äü(6CÝp¾…š™„gáz¼jr~?Åîý·øE¨¥·ð7pÏb÷Ü•T¾d|A¦‘z²‘ÜCšÈ1rŽ“8gãÜ\7ˆ«å¦q¹¥Ü}\#÷÷>÷w–» ßoä#|.ŸäSü ~¿ˆ”ÿŒÿL˜(¼.|"Å¹â±Yü‡ÔCºT)’j¥»¤ÝÒ›rHçÀ²ìé¨óø·’ÀíBw’2ÞOþLþò<	Må†T²¯#ËqÉ–ˆ}H<æ“P×Écä,éÃÃCðh4‹t×Î&ºøç`QÅÿµò/Â³ýÎ¼D4ã›É7¢íÀˆTÂ5ÿÈuãSÜëè]î8–øÍè=Þˆ½¸•<Ã)x‰¿TbÜ#è·\=^Žv‘ÏË@Ž‡ãç ÆàRü—ARÔ“£¾Ålò6 üàGÜ§òÓÁW(ÃËÀ6<ZQ(\'‰nü*™É¯'NÜ„ÿ,<]%ÎÃœàB«p-÷øyüžÃ¼}À=w˜ü–ÆŸ®Ä3@–ƒ·RŸY‰–
+ãù¿âéˆÃãP‚§þÆ2®”Áü@›¨e Y3ºŒ[| 9CA.ÆB<ß 'x ™ ãWŠý5‰cH3š.X1 Büëé+ÁÇ{¼‡éàaÝò›àÇ,ƒ3n»wÚ‚W§oÿ-šó*$‡…™.d=y‡Œ&÷un_¨íöEü¼„.^@ëù·ÀÎTg6€íwƒßžwvø¼'á)¿†+\Îµ ²ôp²=3›Ï{üÔg2lÏpx¿/¢§$M–RÐÆø¯ð¼7¡iäÊÌBnZz&ÔÃ]P*ÔÖ"ÀŸÛÔ~cÇ\¦V_zIUŸÞ•½zV”—•vïVÒµKqª¨° ?™È‹çÆ¢‘pN(ðû¼·Ëé°+6«Ål2dIxŽ`T< >°.Ú˜¬kä“ñË/ïB×ã“aÃäê£°i`ç2Ñ:V,Ú¹¤
+%¯ýIIU+©¶—ÄJ´
+Uu)ŽˆGõG›ñ„Qã¿£¼&ÚØÊøaŒßÈxð±à›Ñ?Úˆë¢.ž±~@]8Ýv“±_¼ß4c—b´ÝhÖ\£7>o;ö^ŠC¼zo'H¶ÀM5âý4úãýé4r‰“§6Ž5~@ÿ`,VÓ¥¸÷›¿¦Åû6ÚR¬êÇ.Ó(ök”Øe¢3éÓ Û£Û‹[ÖohVÐ5u)óÔøÔÉÇ7r“kè5ì)¸nÿFï'}WáäŽ~ã×vÜäÖðÍŒÒÕõë×F7ßqoŒÒš8KëÖ„Ko€J2:
+W#«kÆ7âÕpÉ(}úTÚóM‹ [êfEñ¾ñëgÕAÓÖ7¢+—Ævê^pÝ¢ëÇŒÇ«ƒñšÉýCÛ]hý•KwúÕ¨¿óž.ÅÛ»V±Û­¶,c¶td¦µïc+N¹!W¶×,¦wÑ…;‡gêEÉ´^hý”^P>5Žjœ
+-2³ÑÐ¯n½Ò›n§Ç7
+	%]ÿ=	ˆ·~ÕyËäì1¡|(Kå¤]Ô`¿Î7¦REETD¤~Ð¦p—²õŠ.Å‹›I<>O‰Âª„º\Ó»ª?£|{³Š®•Æ†Qãµõ(º&¸©%©šFRG÷´è{Ücéž}Oûáuqä&æ8ºådûŸMñ8ÌèÝˆ=ÿ—ÝÓ´ýCFÇ‡Œš0>:`}]¶n‡Œé´¦íïÕ¾/Ë5:ûç‚$Ë‘ Çö‚PNl/LWÆ›ùü‰L¨§6K2H%Û‚£•ºË5ZcŒÅþÃƒš3§éQlqñ°ìm6öNu^ïÓi½Óí™×spÃ`*‡Œ™°~½±Ó>5í‚ƒ³x4f|,Ú¯ÍLÀ_s¦¥ýÕU¨²~´ ÈŸ¶)»Ú©`0Ë×À‡Jg—â të×ŒG®¯[?¹9ÓpM<ªÄ×ï%/“—×ÏP§NsfßíÁÆj ®fàÞ õÝÇëFmWñºÑÆïU 
+Y7fü‚I¿º¾5Ûó`ßø½Q„T¶•Ð­t#]‰Ò4ÃCî 2+Ü«"ÔÀöòl[ŸÒŒÛ&ëÛ0šÒL´mŠ¾À6^Û¦²môC1¦ß˜ñ¥‡©dM­·|`BG:@üÄ¡ÿù‡ã2ðh3Ü%üxa”¸R:(‡ŒÓ#Ùï›Ú×ÂÃw›u.|ÚöÚö*ãØ÷iÇXç`ø~éüÒ­zZ=­Þè×?ú§ßÀ¹5§<Ü/ryÅâ¹¶Ü³¹gó&ò“oä¿Zðfá‘¢Sƒ»Ìê)‘»]Ræ,ïUñh‡‘6Bð?Ô¸cÎáI¶ªïå Ìnúñó‹èòõ‘}vŸÛÖ6]A2õahô0<S3™EæB«þydG†áa„à8"aðóóîð¥†+'k•OQÉ°ÖîÝP=®uVÄÜ—‘BÜ¼k=Ë> k!:âPBõ‘*d$U“ lYî/¿	öoâ7?àK)gkk[Q5œ¢¬¢Ì½ïÐ¡C4þ›ùŒ·-HA9Ä¦Zlf³¹ïX›Ùdê;VlÎœRít]ðÑuI¡4H·š(§•‚õ3ªÇbé;6$Rj3S*)”n'TTc Ì®°Åâ5ÀÁM6KÕo± gGfºyÌf fº•¤R©C@ÁýÒ;n~¦3p&‘žéÓ&‹…1_«~“I¤§Tè¤˜Í”Òmí§¼xÎ&1êWB $ ¦ßóÀÏ?[æ„:œ×’u¦u¶W­‚A2ùÈ çP÷þ~Á1Î‰î‰þ+ƒ³¥Ù¦)Î9îÙþºàRrƒ¸Øt£m­ø€tŸòªï]rL<fzÏh¿]z·´&ù¶‰V0?¨.ZIÞ5/ïfÀÈ {0Z‚UQˆ–0lŒØY»Ø­t‡]¦í€‰…C£ˆj!+dZ±hcø•Ûi»ÃC×¦ZR¶¶ž±ÙJÀµõ2÷¢¿šš”þA©”Sqô(+õxn…ˆñÜü¤Sñ”•ö°+Éx®$Ž}tÓâûÎ:ºùÍ¥wï}vÙ²gŸ½yÙµä(æñ%ÏOÚ™Î¼›N§ÿ°õ=ø×éû¿91é¬¯g®¡{Dï<H½«ö7jwÎ¨‘=!bÔ¨=£œj±—ÏæW»Èƒ2ÿ<Hg°™à×Œ¬*Œ´¦c¦š3'š©9ó…jgâbâeeâm®ú©ðèÂ¤%`@Êz.+=—€£ëÁoÚ‡«ðj¤)b½Vì+UÃÚªPuµ·Û+i}¢ÚÖvÆâvQ”*zôèYFÎ7]vtÌý•,äoºtYä·ƒ^›wY‘„µ&¾½HÍ 5 ƒ`°ö—¨®P†maJ¢±“é•¦»bñ9âX•»1_«E.ìÂT‚¼´@8L÷†CVØ6Ó§7“T31z½Ñˆb'$±;*KÞ<Dé!TBE$UMéRª~¤ý‚f‡ƒ°ª›è×9¡šN26ì¢Ûè¹wÀ©µ TÖ¿RYÍÿ««Q¤×£WcS{ôúˆ/ûÅ¤WäWCÒ`syŒu¶yªõFÇÎÛ/:>	|<0ï7íq’ Rr”°"þ.sjñ’ai€„Š,Š¯…®P( ‡&r ÄYÂJ3yrç;¶7cß.úˆÞòNLÌF]Qº¢©¢243.ðá¥ÊŠ_ +Q)¸—j¶ïª&“Èõd˜Î}$Eð]Û™ÚÕžiA©RÎhúVÕVUÝÚV{Òî ²d­µkÊº\9 + 9H×Á^¨×ÎÏjbÂKö	êÑ£¢´N”ò{P•t»@²à—.ô$ÞÄ}³åÁ›nyïuþð—£g/æåÇ'†·n½¬jJËÍ>¹vö/Yï<üÎ[Ç?÷â“ë&w§8.ó)ïÙKá¦Ýœ|sV)³³|›ü>•6ž/„0Õ”VpaÜÖÂ6Ýá.	…–¸Åìócäˆ*TÛ¢R’Š'K(ø*¡_ä¨¬®VZ•VhüÖƒÊAG¥r UJ´ñ‹Ç2À²ÆÂ°_e_ä®ôÌQf¹¦zY–ºÖXÖ»n>e1
+QŽ	Él±ò†ëbÚ¦ÔCyÓÌWÀÃ¸yß>ò$ò“ªîR€Û´8ô&vèMìhÇbÇ‚IÑë£$ê£*mô¢’^Tj/*-H2ØNb”T’žôÌzTrc_3îµÃïÃ½‚
+3µcôÆâf|OV:R­L>²x|&UÛËm'©^´*LX4Ydé pÁõ5^œ==Š™PH=ÛY]>¨€H”¢xnr\SäÞÙ+¶=¾¼l¨ËaZÐ¼fÖÌ®¦Ø¿]òÚìk§Þ²1}êØï3øVßƒkoY¶Ùõ(Y²|Ê-«VEw½2}ÇÔIt¿tgKúûO©· ÄR„}€Û¼g/2gÎ©ÏÓú±ˆLp„‹Œ48gT`p.2jÐ QIf€Ç¨Ä—,kÛiËŒ
+ŒŠŒÕÌ‚c¼y†ù!ó³æWÍÂPn¨åW<ç õFf‘“£‰“ÀžX,¯q¼‹ãxÎ‚ˆÙÂKÜäêyâMªñ<A¯ùfríA0ª9‘r£n8ŒšWÁ˜¯™{alÆ=U‹¤æÆË¥†X…´ÑF¨2˜,®rÎp”p„LæänzÙemÆX{Em0µg¨ZW)Ÿ*Ìl(gªÎVÙ+i#WV®íšâl647„A{‘%óÁG% í›ª©¬’ËíRÉñ99Uô5 PFu™US¥¹ad¥YMVšsC°ìRÉ°£§~þA©˜=VËìeî¸³cr_Û*òë_<Ø”®À“žâv_¸â©ôf€²{ÛfSœ þaLx…ñÕédÍé`ÔÄ@ƒ9)&Ê]ÕK9'óŒr>Ý¡aJ¤¢œ“9‹FM>ÖÞ´kìÎ(´b…€!
+=!«1ìv‡Ô„™l<Y¬I>0öÌ¹dC,j\(âP­•j; (CA¦ÐÁŒ Ñ!¥9ësîs>ãüƒù˜ù½ lpú¬EÎÐMèfÚ…¤QœF·Ãé|ÍjsY.«Íp£:é¨ÖMVbµÚT7ÎÞÔR(ó¢ÚéíÙ')×++”»^ù@ÅÇ@Å‡‘OñŸ*¾QÇ‹¸Ùð½ y½vXwý+p‰t—NðRÒF­«‡Z;ü O®•»¦9ÄL³>¸¾Dç§bÓo dœ1wŒ An—žarìKîçÜÒ´uÃU
+ž½“¼Ó¶gÄª»[°¼ðŽ3jÃÊúÛ<þÐŽÕòçÓ‹'¦Ïþå•»wœ ˆ2äËv(n/¸ß§YÝØ›³LT¯-Ygòu1Š·‹QL‹Oµ2ab¥rPOÅ¨…$æ‹6-bÃ<	s8XV-Øb/&(ä†]c£„Bbá‰ö*T¦¼Ì¢yYxâÍÆ‡Þ<¤üQ—­ÚVå@-•­.³ý¸¿¤ºûûûG'8ÆDgsS¥©ò,ÇÔèByQhµ¼&tL~Óc—¢´aó5ÌéÃ€9£\ŒíèŽüh<£;ìô.GZÜg¥¾c35iú=cjpÐ®„^E	]²í’•X 0ÉR0R ààOï¡¾¯²±­—ê3­3`3ˆ7ãJ5·Ú;É{½w…—÷²ðÏËjÑë¡Çz=ôN½Í$ogª=ÒÐìXGÑkÕŒ3fPMY9£E©AëˆRs`)™ÏÂQ¢–ÌA=x.²+=©]Ã®bÈßé+<{Üec¯!—½8½©í†#«>LŸüõm§¶¾ßÖsÄÃç?ùøM7>Ç¶Îê6¬Û¥_ÿ}J]úŸ]ßz3‚—ág¿ååï×>WÓüèÛ¶ANÛæžA4Oµ°`þˆÌÀxP éF0o0[p¡9‚ù|	Øä†/Ñ¦I„«†Åõx@~kV‡+gjë«†i®œ¥Ñ‚ÕA}ÁJ{¥æøÂÑx^Dœ(Å{8='s»6¤[‡ô°íånùî6þÜÖ÷¦éóÍïmÅ_àW¡Ù“Ñ 5~Ð/Š£nÜÀ½(¤‡êÃ’/«;Ù­¹l½„Ñ.ºŸWØŽÝÉ‹ÅYdŸË4)Ô¾`ë…ºâuaç¥\	Û‘dT;œ
+N.CòPûz€­êÈÎgu	Û‘ô]„ù&3
+†»RÃ
+qÛµ«#…‚°Ã¦KœÙÍò)Åª›6=Ð Ûióqt'µäœ^Šk×i.Ïm¦ÅÝìŒn¦Óî‹ùÎÉ¡´VV¶ç ö°õµ9Ér6Ýðg¯O·sAÍ¥éeé‘nfuÜìI/>Ÿ~1¸.ÉÞ€þ£°Ò³Âƒ=ƒ=ƒ“Ÿš?ï&ºáåh9^Æ/”ëMóÍ‹,7zoGëñ~¼Ò´Ê¼Ær‡÷ûA§#àcG( ‹h´„.ºD“Sü…Q3
+ûncSWÜ¡¦u	ë0¦0Â@4¼`¿ö‘é(•-”Ò¥Ú±&µÀ¦FklÙ±5ã»U©ŒŒŒoA#‡¹f2]uç±ylgÛ™·À­âQ·ê&îÝ_Ñm3h,¡q¦Ý¾µ{ÏŽÊZV‰Ô£Êb³kµóëQ}Í¿tŠ´N&+Ê³Ñ•î<#ØâtuÀœŽ „gÍ›óéþ–/fÏ]{Gúì;ï¤ÏÞ}ÍšÙ3Vßvíôu½o½rËÖ[V<Ã˜µéÝã›®½¿°øÀº3ã–»~ÇÌXuë¤)kW]ÈÛ8âé†[žÛ¢çã¨f‡ÁnÚ‹l *qZnŸF™d4®i:«¸X»*{æƒÓõÊ¹™næ3×Ì$sÉbíÊíQôd_ÓÅôb%k@OuH:ì1EÀ9IØÁ59ËäÛ§YZÆœV¨€ûìLÂí,¹b÷Ù‹S¦‚°Í±Ž°rV«Ä˜’Å.ŽÅÔ?Ê¥18m¼©ÚRf%JYûðSmT¨¥}ÿí‰ˆ7qÑãS‹˜ËggJýo®ÚùZ?¹TIÇ©å½C=jüjÏUñk¹9ž¹éñËÃ·‡ò<x1ð…çÓèÙ¨óÏ£ž­®wáT‘äSo1ºå‹EÅhAx„uuCô’øèHÍl7Ñ›ˆè:ÑÕ'¢gy"ûp%2ew›h5ÓÝ&}·‰Zk{g7qc1õ T/¸ LL²føíízdWíÄ¾1ÕIÀRgu(«AíN¢n©Qm=®­ù™KØî^J*Êó©•†%õqØYº0‰™’¸™öÌÛêY6yôò‘=pæî¾€¥ƒwµÞtã?þ]òúS—ìxvÙòÍx´rãuCW¼=Ïì7ËoÇÊCéÓß¦?Kïüí~®üáÝÙ ¦´d>ÞÌ÷æÁd"	Róó’%8œàˆ”ày1æú1r˜²_@öËWM`é;-^[ßZþoU«ÒŠ!ú²3¤ˆUÐÐ(Æ÷¾Ð‹ûýq¿ØÒö0ÕÊLBBÄ½²’Šü '‰.4eÃ ôÜ‰Æð½ã[‘×¢Ül¡sšîÉ"¥<µLl0ÝÄtý2¦•F¦±–eûL,Ò6Ùy5XÙù/1[m
+‹B¿mÊ2?0%ô¼5Ìx1C$0Z¢tS¦Ë3uÊ:n£òªpPlQN+&Y¨ÁãÈHe†©QùÎüå;«7óÞÊ™ŒçÍ«,J’xY4K!úÄ6–eJfì"G·¹é6.Ê›]p”!,rXäÄf2O5 Ùü¹J0!û°	`Ñ¤:ÌQ4Mâ®ÉæóÜFóÍ«¦‘æé¸™ÛhÆfº®Ø¤ÃY!5HDú¥íØ[>f	üðƒ?´jÀ¯´¶"_uU µú$45ü­º¦Rë¬íêcK¦õÐòk•¬¬´%ÂFÓè!áQÆ7ñ6N–öeNC¨õÕ…<ŸÆGÿþÇe8ÎÅ8gŒKæ‹GÊþBÆ¿ÿ›¶‡7¿ƒÿñàÀÜP™°ïÜ@übº?™€ïÛ{Ã·Ó(ûÚÌgÂbá(DAßìšBfå¬Á±HsÕ§ÔI”‹¢RË4-Ìi@«r6¢‡„ßpOYörM–W,GÐÉœïrìVGŽ='‡+ìE¡hdeœë*÷8ÿavÎMŽÛqZ
+mÁO’-ö¿YÈ…ŠK	ð ì(¨d˜<  R±!Ì! à‚aÞ $mW dÀ3ñÖ‡ÁÐÅkd@2*cjr™é]Êþð”‰Ìë…H`…ð{ÉFv–Ê‚]´ßLî|ìùxn@‡#¯¬”÷JI
+ÄírPØà›^¾$ý‡OZÓo=¼÷{ùï¸¸Ïþ²—ùìÇç~ºæ‰éþÍùßãëþú	»ýÄë]6Ýóxú›»_H¾þEŠ‚ÖN ­µ¡ìWÑî'‡rÂ ov%lC²·9“þY¯ÌY57û`ayOC”ú‘#ë·ò±-T‘ò™""9
+«…ùG
+Ã_%Êz!¢Ù.ˆ³ÌF1&Ûýp®‰éIsæŸM¬"ë_Wî3Ñ×ÞÁP[Õ–¢Ù"mµöb"~Ý»õ[ªöà‚’,Ê‚ÌË¼è÷|D4ÍF‹‘Ý—ÇéáÄ ça‡ˆOÅ°ÇhÑ8+•*‚ÏJ\[f•z=^„ZÄJâ‰Xi6ÝqXìQüão&Ü\³pÁðï>´:½WÞýT÷ÃîŸ3|kúaŸ;gè5éÃžI§Ÿ\ºµG÷Ÿ?ýé?‹Âðì ›üj¨{z\½DÂ²|—„%	q<­$KDIÔDHÀÄˆc,GÄ¤Êð?ÖuvƒDV{i½OëÕhì£Ka¶"‡±šdÂxR‹À¨«RhEB¸cì·…{ÿÂ'¤±m¤°okº÷Ö¶k©vÎíÜÚ™ÀÃÕ@Ðt“º|üÙ‰\^Š9¼$Â„©›ÞÆ¢7låÀŸ6`œÌOäér–§ËY•3IçE9j"¿ŽåO²'eÈM$¾Ë$…!w=7™ßósX•å°*ËaU–“Œ±‘)¢‘ù]FrÊÕq˜R{6[
+«·Ç8P!°®å›+i\
+ÒÕŸC?Ä‰æ¤’p'#I9Á'ã	Ÿ%'†<6g
+»œQ	Ör…D‡L f.;°!CyÄ|kð­ª”ªv˜¤‚‡jqEÂÞIý=^©+ý%ð< @O;7”Ì½+}dÓÛéÇšvâ‘ï=†ñ=Ém±kv_¿úåb½Öbr÷Í§/%ÕÏã¶óìÅ¿xû^Ð4½ùWÝæ5µjÄºÇ¤h˜ÜÛi[î²ä’Ã¹ªŸ°jä%ËTJYü#k'¨µH—´j9Fa÷ù&ÊÀîó*«~*Ò„öîìu	ëAÜYV®-»tÓ–…Ú2žÐ–9améh=ŽE¥<*l¶	 `MïB›P#âKŠF¢ãè4QØ¸q‚–w¦šàËjÈWº†|­k/fŠ™†<Î«é€*ý&ŽßÑ ö¶¶¦~~U[»=£	i†Îú§Ì^fßÿ25XPs÷FAÍ	èÕŒ	Ï…$G©&Ï¨1‰hÕÈ1™äX¥pÿ1žýŠÿ
+?­ÕÐj,ÕÙû^&…»ûn+mÙmp
+çUÍr‘	n€0ª'e¨²Õbg:µŒ@;M(gvÐÝ‚ÍÌ&²ÁdE²M"}“Bïüðs»i)“‚hAöÙ~ÐŸíBS§4‰PÝÒ¢9ÒB»qR)­~‘> !"±åå•	Ô8åƒ:ÐCŠÖ‹>œ‘QIwñh_±aýP6GŽr#‚™CØjB²Œ	ëÒ gc;Édr …ŒS-YLõa§E4%‘:Sr†ÙŸêª*íaj;HSóTP]ˆMv‘ Ì/6¯1ÿ	ªÒ<Ø<ØÆò	K±u<w5¿Ø²ÄºÖ"›ˆ WZzXG!\I•‡YúZ¹û¤ûä-Ü3’è 6«µ›@\‚@d)»	2°²ùJÛ•X§Q–à[,V«BÛ©ÎÑà Ž}d²àî;„¨ÜŒ»«³ÁÈœhÍe6FUó
+6íƒ¶b”"Í°°a¤ZLwX(¢¶y
+VšÉ¸=Q¡Nh@óÈ–ö> J~ð7ÏÔVùÚ¨X2oÖVOÖ‚÷	¥tøÀ'¥^èÚåÌ	…E÷nè¢³ù2gÎƒ”ƒ€ãó5‡4ša_ì£]A?l·éÖlÏÐ›»c•ÖâëÚÝ³ÒZÚ“±»ºÀÖlPª¼UT_KÃ7DÕÌ¿·GO³Çí8Žíà<|u7¿OÂÂéqÛÒã…}ç¿½ûò‘sÎä_?_ÁŸ8¥ÚõøRjÏñ‹ÙþbµS»X‰¾pºËeŸÙÃm4ù œ@T’!‰Äq²'Ä É<Ç ”¢…néÕÀ6EEQÐM òÏ NÐT<&5Éô£6jÂQÓHSiž©Á$˜ävÂÌ6$Ä7õŸy|Ö“ø¹CfìÓ:Sµ©*ÖÈi0ÈÔ,)S
+M:A<Á³Ö|/í<Úc¶—ËQ Ð5Ý»QkmØ$«+á¹[v¬”ÕR-­”rý•Ô!ßí¶TcéÖ8cUS¼R²ºàç¤ëgv;ÍÑØ`Ý”ýa»;ÛþúP¦œš”a€NhûG^áÈ¾W.¤¡ÁWò+ ±Î7h>3ßílA>tZO³Ïv‘!Ê×ÕÊÕ.ÞdƒF"¯Oóáº_Ó©'}7ëÒKÊTì¬/ÆHëZV²€vFíB«XDþ>3Ö|f8,ÿOý¿s?óÿüí‡n@†+õš4Ló¤³^ s¦©?Â\á0$³ßî“Â{†Í¹§æëô«éuø¦­Ú}Uú6aŸÕ1m÷ÜÒmmÏsxÃŠ‰·º-4îØº²êÐ‡rIo5æ0Y±£GhBäZyn*†ÓŒJŒ‚3ØÂ¡EK
+Ò“Î@Å~´Ó(‡åé¹ùåvºž“_®d—¶ìö¿½3'©í‡òJvI÷«ƒIX¯]mšššoXb]j[m\g»ßò¬­ÙvÊú™MÛµÛ\v»Ín3AxŒ¢ƒŽü|ƒÇð‡½ôŽ³ñø¼´¼^ËebáóÙlV9¬ËFÇ$òYPqšDNZõ‘€¢Þ¬"MJ—Ó‡EZ-bm4o^^C——ë#RÇLB|ÿ©„ˆÿV¯ã}¶ü«!ë$ûOú²ÑEî¬ ¤Rm°RYÂFðhxhï)žNI ”u²T£¬Ú*mJo»£7U@\Ï°Û
+zðWÚAÓð³ª¡J%×¿üÚU·†Jcv$ÄgÎ8×•€0Æ™`²tl3Yà_;:¬`ìÐÌ™—Ç^wU—ØñæÕ÷¿ÿ‰t7aßˆ?-}äXN"oø¢t=î¾jC/“Ô¶ˆ+ë¹tÐ6obæ3þKˆlº‘?îEùÙcRO5²ÞC/ËÔ³¬²ŸÑ £=_lÖ“Î„t†½äâ  Â(ft
+7…_À-äùD~WêÇ–†æˆôÏ˜?š«‘&æ\Up›Ó§ÂCÛ8Og:“Ô™|‰³æ×
+kLBg’:“O…p å
+,É<’Çå'zØÊãýJ&DÇÅÇ&æ˜fYf[¯uMó-5Ýh¹Ñ¶\Y”· ±†[oºÍ²Þv‡²:ïÖÄ=–ûl÷¹ÃY®K,é&†d!N"Tpð¥Ý“hà€¥ËÒàmALx,]Âù	œ<Å?-ùîb‡=ÀRsÕjá]Ô²1?%­Ú7¨vIäY-&!Ê	eIä9"âD^.lƒÈ:Ø% RQ¿°´Õƒº°8”YKGñH\‡çáXÄÍ¸Qµv¡—¤—†;¾Â '¡ºŽÚ;zITˆi~Ýj%´ïîŒ¡ç,”Æ´.¦1–c†ÀI5Ú´°CWCG{FÐ1†j«¿{6"…<Eûˆ³é!=@ÍæˆˆHNRr†ÖèMÔa`Áv":üRÿàŽ+Léœ=Ã¤¬4›½ÈËg:l<T6¯ävy=¼—)•agrâË¤?-¿þ¹Ñ#'öIÏ5súÍßþê‰×ûl[ŸmÜ\Ù¿3¾áÆ5çýJú»ñ[Êuw\ÕwAÿÓãÞÉ©žOL»þ÷Sg¾±Òzû+¯QV6» Ï®Å‹/Xø9Õ¬Í™Ï„\°.lVIÛx~¼üªÌ{hÛxÀ))çûÈù+äÅ¶§…S6ÉŒˆš.7]z› sv7Å<W’è~i÷‹ˆ’ÍœP»²8¡6êÁQÏH©óÌó4x8Ï¿0¯,W ;mÆhvÀ“¢F½õŒí jä³Ñ‚¢Æv5Öº©stDµÕ0¥¶¶¾£m­f6™ÝE´ˆÜ­3ÍÎ×½<5}þÍ?§ÏÍ{yÐÖåÇvû.l?}á‰;±åsnÄ…ûw]ó2vA­À²†ZurÑ½HÉzì6æ±³‘Ñ,EnmO§k£dú ,ˆ´t;Ûjiï s¶NRË.‚ˆ´{L¤ÐQèì…{r½ä^†^–ÞÖ
+GO§ÑáŒ:båJàj'vÂÒ’]²K™6É`xZŠ£ä|ƒ‰$ùB©ÀTdM:zð½åÞ&zÆËå1|­<Ñ4Á:Æ1OãgÉ³M3­Ó‹øe
+C78np®á×Kë÷òÍòÇAþUù-þmùë1Çgü)ù”õSG±ÈÆ:›!ŒU<”šdJ~ØI™,Z™ÌÈíR|F»¨uZ)§ˆˆXl$„9²Tß@»è"¨ÖŠ’l0`:Í3)ŠÓfµX°¢Xì§Ó-B,&Îì4š°¨§ÁètF‘Á…#KÔÌ¹ÌfÎh0p!N‹ÅlFr‰»½Þ@Ô¬š‰¹OÚ5n4¶9c3nÞ5‰<F„dÍªQlR•‘Êa…S jŒ"¿Ëýr¬Œvjø™€X[­ïkmk-0ÃLëÏ’š±¦t­0¬c¤EG8ÁÇf[kUªªä”8p †aˆæ	¶‡µÌ`›¨ãí¯ÄÔXû‚•š/V:µO+åÜ`%´}ËŽÃZÔH¨Ò	†ƒŸÅêñV9ï%2øOUœ‰:ó]pNG¥Éœ»£œX•ÉH9B9³ÓÛœ^ØF9\'#Õ±#<‹Ÿ‚aÆeZ´\ÓÎl =ÓæÏ°qt¼{?œ´­¤N§ïŠÄº»ÓÉò»ôºEÕ#¯Â«Û†]ø‘˜ºTŒ§é[A¯ÈœâCü¥¨ õ$[ÔbƒÅPä·Š
+-EEÀ»{{.ªµÔÍ²Ì,ªë¶Þ²¦ð!ÏÃg-î½#ŸÍ÷ ÜÓþç
+vû_(8à?\ðW÷ûr¦#è@q¬Ãq±cª‚jÐÊE¼_ª¸¨¼’¯,Ì_^<N®I]+ÏL-6¯5¿jþÑòcÊÞ³ÜŠy¥$¯Ü[sù&^_H
+C%Öjë]ÖÇ¬«ð˜u›õ+gmïz³²Y'Vjá(þ1ÐˆÑ‘óVÖymiç¶5IÍ›•Å»Vkˆó6“çT‹¯˜9¢÷ºB!	µß:o,q¦ÂÉÊäŽÙ­?¦†èxàDæ¢&byÍ³ÎÍWšçñoóh"˜PÉÓæ‚°áïª‰Þ]»¯<­ã‘2äjÕš¯Ò1ÈÑd·ä¶¤PIsj‡Áé9¦3gXT–ì^É¢âp¼¼[eK%ÙT‰+éÔu6=µ—uNz¾ÜfÕK˜/a†£$o¿xX$±Z$¢‹uMº´¹¬óÑÊ<y6Fô1ž°Y|&Z™;Ï²Òb÷^íA5õšÝO¥  N±‰*­í¶„Ål©O>¡öãdªºµ-uR›/Ð~l½æ2éC¤óÂÙ FTŸ žÙÿžì[Qž¯]¼”0‡Àãv»<Þx’%+Ñ:©¡W5uï¬m/ZpyÅìw§ã²ëV,Íiô]wä¶uÏTÞÜCÞk\?±tîÌ'sn;ð7«‡¯î²Zy	ãu].©©÷Õß>D|E×%§Ï¯¾¤~¿ ¤+¹¼îê—Ü@£Ã5 M4“¢ üªzÌ¶<¡B Õ‘Æ‰DrCe¡¾¡y‘±·³ÊSê¨•k-ãmµž_fÉs,3l×y®´DÞ1¿ë}×ÿ‘ó+ïWþsND2T(±•¸º	Õ6Uj)\+¼›ó=N1+n+/Ý!«É§ûù>ÝôQ·"Á„;ïˆ	+&ÕTgj0ñZ?˜‰iŒÉ—MƒžÕ#ÔÓLDMú„,¹HÛšnQGÓ¶7-ÄvÂ&-1q±—!Sžé¯%`XTVÆ1¡ã´I?	BZ08¯›p#>ù®Æ#0‡©‹DõSÊ¡Ž™èaæa=ÌDZ¿&*Û¬¨‡Þö±.½ö‡õìä¿P±š¯õ°mà§²Oi¥âöJmÚF- ï|T‹ƒ?®f˜¸ÏÍçÀÓ¼8P¨Ë3Mó·_³­^MûÒ‹³IùØ»?ÿÔ¢ÅÏûÚ¾¿kÄ]¯-H“>ök|ßþ±·zýÈÁCÔƒ™9Åµêðw{‘7sZÍe	LVƒFmŒ*Z2šÝZn]aÃ6¦]ó‡xGÈ$ùB¼	[Ý’L+Lb&±±2t^P¦X‡Þ<¨ùàjKéŽ„d0ãH¨Ÿ³Ÿw´s´·ÎYç}˜<Ì=dyRy2`–-~ã,2“›%,2Ï³4Xž6ï2ì6î2›=æ5æ	gÍd»Þ¶ÂÆÙ0ÅÎd7ÖŸQ·µmB'Ðiðél6ºx!¸u] mT ™¬Øò¬2ÃåÜ ›ßuFGÕ¯Õ•L–òL©Æc¬ZSeªT‚°ÊÆCô`q§Ê$Beâp9‚ ‚Á!777=7Ã;wÞa	G¤j‰HVz˜d¤‡IÌ:IÚGVZê,?ÐžhÒä"ÀÕÎÏN€e£×{ÕÀÞùgè8›ùz·›½²D©=	,´QÒÇ§a¯6îµœMÁk_¨LqUÛs¾ùí»éÎÿü¶­ló¯˜°î¹'WÍº¯öî9Œs°ñyLVnÛœ=çG½|`Î@¥ã€9vÀœýê2#á-	K¹¥¿E¨pU„®"cŒWºF‡¦“©Â4ÃW]¨%ò¦ð7çûþOœŸ¸¾ñ~éÿ„a‹'I( 	Pt’º’<KWOoRaBXº‡®2Ž³L·|"~æ9‡ÏXìæ¬&Å˜c’ì@‡ë:?ìa SFÛóÛ=¬v›^ ³ä3!H(Ê;Vìª½ÎÞ`\¢’«¡“ÝA!ÁÎÌ1Å)»HåÜÎÐÊÎÂ%ÚŽv+mG»Þña×;8(£Ö1EZèÐ&˜hs˜48ò$–ôÐfµî—KÇ¥ŒÄSù!qR˜é³{RXÓ+&3Ì‘Lfüáò‘†:k,8j¶±Š…Ä€8U'³qý]„šÍUPÃ–M“€Üq€b¯iVümÑ¬7o­»¯dg[ôùE‹ŸÚrÓ’ÍkÝpþ‰Ç0·~ÔeÄzn q¼ñÚï¾ûÆj‘†€E
+Ò¸A:U½r“±\­PkkšÆÍ®7L3Énê”d«ê¤z%årBl»ãáœël€ïîèíïºÌ1,pYh”c¢ÿÊÐdÇÜÀäÐq‰û,9ëSÛ,^ïHM9OÈ¶QÙ¤Eáƒ!£„ö‘ç¨–èÈÞ¢²¦R@¡ïu,xõ¦Ð2·Æ«‚Çýw´Zôé:êØÑšgÎ¸!¿¨¼Ñ‚-írM$Ëéruƒ"8â¡¶a"ñX¦ivD“%ORóŠÊõ¶Ö´^C€h‡v±v×°"ÄZœŽ§íÞÙÂÔ¦Xžñ$l8[ß1L¦]±ÙÁwUmõU,sè³J©g3_‡••"»KŠ±ÇØ y‘ûÅ¾â¯÷~žþ»þþ7lÅNw¬ž²¡í]2ÊÜkÜmËžÅã¼O4áØP3.HþQ‰nÛ7ß»¦ßŒ§û¿ˆ4G‘ªa—Ûü%þn~Õ?Ïÿ°ùË³9`)°4ú[ü¼ŸV«ˆ”çÈÎl±›¤\Nž‘ñ1veœ¬*Ÿ.Ä*ÓkÖ\LqäÌúhvvïUÎújR¡HùF„ý*Õ^¿jíE.–ß-`ÉÝ\ªÏ¨8›ßý6›ßueó»_03ÏºdÙÄ^ðóÙüô„Ïÿ"Þ‡bè,6"ˆÏvT8šï=Á"ÓºÖTk-í¨b35+íÚ—b’(ƒß«AdmAÁWÑÊ•8ú8¿Ì¯(«(ïIM€Ó¦ÝtrÕŽÇsn]<tb°Wé•ýæÚP?»|àUŽ_Ö]³áÂµ y}Ó£¸/@óÂ¨ÿQ­3™W±)ájà9þœbSÒU¯4õp]aè'7Í03~ï¶vç_¿4hþÆâMÅRXÂêâ¦±…cbc
+gJSbS
+ëŠŠßÍ?û:þM¾ÝëÝÍd{SAÈ)1S¬DQ7fˆP:‚ ’!ËUE…lÆ¹!³Ñã.K”uœû­>æñ5ŸMÄKø|G¼XñªÞ:oƒ—/†&!c‹{{ÛÑØËÐ˜Na[¿ÐÐ˜–¢H²hìÕºÏsN×õsê&9m8r#L˜"L˜"L˜"yûm‡mÇm±UÛF€§¡½Ã€aµé¨-@eÅ–Ë¦„è•µ™_6†Í6ªxaŒÂsjøE5­Ï¦$•ŽÍ š©ïY:Ÿêdv´ìI-¿U&ÜK‡R±X"_KQÚ[QfgÇdÇ±ä×n3•ö[¸|ÏŠ7¾wúº¿ÜñâOO{oÓï¾xðéåË¶l½qÉ–ñQ‰Ò©z6ÞŽ«Þ ã4\˜õÃá%¿áŠþÒ²ÿ?üÕÚµq§X®ñÞ½È*åö–³é±,ðJðÜ nŸ…g›Ü^¹W¶›í.NÀÈ$—ÉhÖm®YonÚ¥Ñz4'jYòŒ·°‡\ÊÄ0ê¢k ¬cÞ¼!@Ë²‰9JÑ†fÙe6Ç‰¦cëgw³¡ÃYb´°¼Gy£ç´‡Ìólò4z2ÞC\¬©]¬I]¬ñ]	­oW»:Mß¥EôU”<ëÌöS½-´ÐB¦7ÓÞÃ{N‹að@XØ1Ü=h¤¯£ãVŸÊ9îLgÈŽ“®Òb€Jœ+e­RÂ*šƒØ"B šŸY‰Rôm eZhàñ¸íq;kzÑm_ÛtsËâßiZ4{äU|{Oí“´M"›×Þ4úÎåm/ :¬£ÿQ‡ŽUB~Fõ£6´¦ÃÀ`cv´Ò=ÙpAŸ`©1<‹Xß‹6I“Q‘Q‰Q8¸Mw¥Ûô!Ìmúæ6maÇ¨È¨Ä(Ö¶¯>ð%{eÊ°+÷f=	=hõ0l4l24ZÇ§2Dó†Ç²›N2cÄ þ»ÄÎ ÒÎpµ»êÍ‰‚ÈE)! þ1~ßÈ·ð'x±…?ÍÄGù#°ÆóZ¨Gè•³ÍÏ³æçôú<3¼n(xCÒ¦g÷i¤¢À—*ó«Ø$]hj-šRR;¿cª­óÇYQææ ½×555ñ_>|ÞÍ'Ï¿KµZ“ûZÓDîÖFIµw»È:ÃSÃÖ]›¥qq.µ>¯š9â8q‚³Y¾ÎŠœÁLŸXÔ{‰:cÐ.;×J;–»ÁHbÔÉRÓ§w:òiªút,ÛÀr×§ÕU°Eäy{ñBBìbo¼[d|—ûX”žq\LJ	¹Rìe¨¶Œ°Ôð5âx©Æ°œ_*<h8(þ•?&ž?—þ)þ(»F£Àq<EÉ`aÅ Ë	ItI’Èñ|B0ºÁh„ææeM)ˆŽŒ|3¶©gÉÀ\™®ˆ²hŒe‘¤ÀFpæL¬M LÚœä"l#a	ÛHƒ_QF€JA³«Ý4°Ñ\H$Ç$„æ$ 
+Xˆ‡X¬‰üfË‡±A×v4t.Ÿ’uhçUýYÚyA]{òüuo%æCçrÃÒÇ^ò )r•\Å1šMÅ[†pÄ°Š#Ÿ…ŽàO›÷­Å9•9'§J¤9æœJX¼¹#ÊÛcÙÙÝl`O=Ê¦¨ÅLËŽC²ÃCìP*EmÁÖÌl±Ý¤¢a&½”ã}Ë.\Íåªb„vÈïðÑƒ¿ÚÔŠãÚ-·v±ËMKb×’Ëˆ;~îóô,¼ÿƒôæÂ¾/âÆôâ¶©$rcújý[Az²Q—ÃTKGë„]Ù‘–ª:iS;bQ'üÑ&-	mØÈÊž½´–åÚ²[wm™«ÀT`&mBDxL8.ð#€œ¸ˆ0Oh2vÅH8ÍÔÐ31“ã?ï1„[Ðiúæà‹vç‡‹v'§ƒÝÑÄJóPå¬{ª¡0}@B~Ðp¾3üPü¡IÐì¨L¶öÓm‚[›Ø MÍ“àMÆÉG{‘3)J‡±9c×™½úB:Ô™€ÎäèS\B:Ô™€Î˜õ>K‹ÎXuÆ¦3NÝTtÆ¡3vqênˆ¢3±ëŒEŸn&ë€ÖÛê0“¥<ÁŸäO>ô~þ&œ¯|Á¨ãâáè¦ŽŸ„ÅxÀ¯$ðÆÄ¦Ix½kb£Ûy–>ð±ÔËÇ³ô‹M&ËN4Ž°$‚™%X&Þ®>êJÀµjØ'w²Â„Õ—ØÄAv`û‚ìAšÆ²Ó™—dÙ¦ +æ.ÍôRA=é¤W(@¤,ÎNg`g`Oà#ÓÔ‰ 
+yƒ¼œŸAËÏ#OÖ'º GOgTsŽ4‘´j(˜—hÆKvÆuöµL)s†;äOkµ—™\\oc}sõó¬À–£o~±{;3·š]Î¤Ëlb‡Å­»NzÌûï-}ƒëÛ÷²)›Ì³bÁWGkséÓ³ß¹ùµGŸÛŸxé¼_5Ÿ:teo>yïðI×Œß·mw[>ùõœI½ï}²í~²cÉ’‘ÝÝöNÖ£þ4Éƒ·«Nd‹Ò¬|Ì}æ<ÍuŠ<µ“¹ rKü€rÄwÂ—ññQÙeuyàQcÑc1Z¬f«.´V]ã¬ÙqÀåù˜ícµ‰ùÒ&æK›Ú}iƒS.+‘íÔ¡m+™Î„ÃdÌfÝÏªÌv™˜»nÂðgî£°ULýjßi™çÛäkôµøxGÊÜ&7&C&=ž„6ÖnÏÏþ—î´ñ'î´½ƒ;ÍgÑ­EuüÔ=îe3Û?šƒ}†¹Øv¤´©ˆ`L©—]ÝzÑÇöˆvƒQ6JFNT’vÑÄ6£#+0tFA=5¢L0²]<¤bíã‹Þ¯Û<R16Í¾|Á3|òþmæ+]Þ¶€¬¹nîe÷¼ÑÆæõÏœâó¡å-È÷ïv³9µ™ël~÷)uåül‡C2úÍƒÄËåqb<]œ)ËåJoGoO…o€2Ä1Ä3À7Q˜h¸R©uÔz®ôÍæ¦*ss=S}7`·A,Wsc„1Æ«Ís¸iÂ4ã³Ñâ%; UÇÑgôñ ?¨NåYŒd¢#µ¿âLb¹Îl6_ï–aLö…Ú„tIK¤1¦Eµæ%Ê»IIŠ•8éâÛ2º´¢%æÒ4ðV&.V³ÖÊ¤9™­45ã`ÀÂ:PˆIK„eñƒ¡%boŒ@*\ŽA,…–}iºhª,ûººŽ’ Ô§jÁÍªí,úìhN”z2†ÑÂhÃ5Â5žº+´”“½4e_!Ñ1ôîÿäm|{núòöãéÖ½;Ö®Ù±sõÚÄ‰óï\œþ°íÐ—·à0¶¼ñúùãë¯ÁÍ®MÏäc Æ÷©ÍJåeˆÂWG£$-4ÇsJÝ¥9}sæE7FåÞÞÞÁ+¼Wkä«Í½ƒ³äÙæ™Ê\ïì`Kô¨ë}ßû£á“®“áÑLÔçSJÊ]Á÷VòW(”OL_æ¤“ÝÊyB´«Nô„¬&dõëá×ÂŸê\Þ#VŒª±ÎØ`ä£L,¢jvÏ§ª‰ëñéczôH¡}€Ömg¤²]ÁÆ÷,ÄÎ2R–Mƒk	p-ž@è_÷ÇéÝpJ‡n8¥S7ÜÙŸvÃ±.~ |ÖÔÓ‡;õÃµwÃ¥Îœüyë‚³Wvì€sêöÀãv±éÇùv®C‹¯}²÷=3Ö™µèøMîêjzñ’ß<³pÁöôLá¥õ£FmÈ<ðDúüíC{·çž<tàõ¿½þÚ[.OÏäN@»+(„—¨sL$EŠ|}È²Ô,V»«ýCüÃ›ÂB¹³<Xîïìíœâœ¬7„ßÿæøTüÜü…O)$¹æ”»’T˜“æ	d&yÇüžïcÏçþOƒˆóW d’¬¢+ÄCc{­eHoïŽ}]ÙÄ¢Ý 6¬ØT[­ÁÆ‡Yâ-ÌZÜÆo¶öÄ›%Þl,ñfcK…yhkØ´7ˆZñZ†p³o—ìø¾É¼ŸõxtìËcxÃ2lË°I-FÓòß9áŸæÖ²©µy5=«v¦êçM‹ê±=ÛÖ#›JëÔßQ\tÿØ—Òß\ôæ?Ö?Þ{~É‚§·-^ôDz&‘ûÇ]±´)}ëÓwžëÇm=tè¯¼yìê)¯†Æ=íjG¨ÃJœXáqœ/çûñ£ùkù…¼h°ËÙ`qÚÄÉØÄe,çFØIr;½ŒS«®Ÿ™j~PíL©ÈÀ²“ÿ¥%§ÄQèpÇ ÿ*9uR©=3ŸÎe¤õU©¿D)¯®µ²™%µóéäNM+´Ä´vpõã—Î¬¾ú—öíÛç®0ŸÜ\yïgòU×Ío{î¹:sŠÛ5ÓÏGKÝkN¬ŸÑ‚oaÒ˜d‡—Ñg9jL\gru&¦3ôµNê
+–eÊuåö6\aèŸ7.wZî2Ã†UyO;Sü2g1x>o·!ÅÇ¼BŒ%D)ÅFßDy¢a¢q¢i¢y¢e–<Ë0Ë8Ë4Ë<ËÒ”lÊ·ÑAŸy…=ò&kLS“SÆæ5äýÒøˆùž‚û‹ïíö¤ñYóùOìLþ1é)Ð#ˆ\‰ëLžÎdŸWÔAÔJÔS¤!Òª#\9AÎO˜| štó¦®9šdÏõ³.Jµ„’›ÿ°_´ù#þëýÇý|Ä—Ÿø_	pƒ<²Þ/ÕE‹+tz“‚`‚°‚ÙÌÒ.O9ëS¬örŒ»NÌ™“CrBn‰×Æ±¼×§znëSÕIÅˆu5E8çW¾òRzxë]ñi”j«Ÿ½w×¥Gú£ô(?Ë±øYÿÝm¿\¤Ì·»Yf*¯N´+Ty¤ÑkÒã‹ôáüE:¦i/acÌ™Ýô,Ev±ü¢òºÒ–RR]ÚPJJi_òi¡	“÷¨VùD{÷½/&-zoQ&…Ñ<³.6vï¶hÜÎ©Iylz\6ÃÏ^—`Ë=®'€üÝ³ýq€B: ±—*°œ?\†”JÕÓ^¹L+í³OÑ×”Ö³AH4§£”é¢}â¬WóSÕü.á¸à*NÚ‡âT81×"CÄB a¬Æ¬ñ Ê[Ìr¡1ˆòF1ÅQDÉ¡­6]–¥V®\‰: &ÍBÖ^ÜÐé¥ùÉü®¤¢¼GÏŸ~†/ßÂú"ªwØn»iÙ’ŠÄ/>8â²^Ew^þÒ{£yÁÌe³<ž’àªý÷›ypùáwð%¡Ùó§õ¿$îK”^9|ÐÒ‚Hêò›¦û®œxeÏx(ÇiÌ+»lÙÄ	]õ<bÿ}û[R$<ˆ¼8Bß™Ößc’Ö_ã–Öß~§1¢ÎÙôØ$ÍB¶¨£iðc„Í#æG1¤lFð…8“MÉE¹ØÒÉ=1jî‰g$y€a@4Oj6J<§v“Ô(µHG$Q¢>…aIóyˆö>6F‹Ô²3eZø£¹ËÔ…¢©×¬×¬Ò>2ùpí×þ$kKk¶÷à$µh­töµhö²2åÕ“E^­'Ÿv Ú{²72²ÑD	­ºfNñªU;wír¦
+Â›S.ö8™²KsÒwlhûå°â ÍªVŸ ÿ
+ßºh7·Û[N¢NîsZõ;þOeÏ%UqeU½î÷í×ïÓßéî™îž™îù4ÌÀÌÀÐ€Ì›ap
+A@EEQÜB4.¶'5&š¸ç4Üd7Ñ|–fa 7`Œ’Ù¬Ÿ³$ucÜ?‡$«.3{o½×ÍL0çìÞ÷nUÝª[·êÕ«Wÿªî*„h£Šh(ªAfAú‘Îh¥_­42¢Õ~i4a2Á{§1Þ/Ù|ò®ºJ1Æ+¯XµG{ÓxÞìNŒWð³tL²‰=£±‹øb›°3šx7ÁnN<–('&>\D„sOüUÞ¤Sµ"Ås±3ÊIå´âS*©R­H½ù&•Ï2aˆ¼þTxoTá“;ÊÅ5SÖ¼œó»n¥Ê—wÍ/z‡³ÁÇœð™AÝÐ™è´ ]O_ ItÙJìx¶¶Þé.öÖe4åùÊöÿg£Yè¹ýÅ+¾9hjû4ë¦K.y`Þ¾¯î[rãà¬aöÐÙÑ/Ì\|ÉŠïeÅNÁMàL¼Q•ÍÆýÊï{§Â½†à[û¼³ßr;YÔü¬‘ø®Ã?fNZóËD•E*ªÄ¯È~Êü|oe{á•æ+' WbŸ6y`–Ÿ’z«¨b•¦[E%j§ºdT:
+:õtGÝ”ºli…w”ú\‰‚Ô)ggs[É€bZH³’W‹d–º„,VWÑUlH^­\C¯a›åÍÊ§ÈºƒÝ*JÙ¡ÞCïaŸî“î•?§|ìR¾¤~|CýWr@Ú«>G~¬ž"/ª ¯©‘3ê4x5N¢j3É«Ýê qTÅïØÑ.?$NWåˆlx|t‚ýÇà›¯0-ÐŽ÷@0U¸-óû®2}¥ ix¢p¢@Ú{zxnH:Ýª$Ë9E+ŠJÆ Å¦"¢BëP–£¢¤*¡þö ÔËŽã(%<Ô&Ÿtü%?óƒÉQ2Ì¡õÚ[¿Àlùv¢æìº³ëñ·__ç.ø(Vç¬âÔýÂ¸Æ[áz&Ÿ¡˜¥!\ôê¤ô_Æ·üàõ\:^øÃÁñ›|ù³w]»uåvv¯;%â? 9Íö¯?HH%§¹ýz>ù[pgPp8–_úÝé?¾ŽS˜4ðþ–»ËÓä5­(zû‰>¬Œèn¦v+b»â W$ÑB~ß=ËÓÍì&ß©!ú¼i²ÿ97z6é×vå¨|¹êàn¦VNÿtOVâ-ôzÏáÍÊD›w„¡•q½èÕÊÔç«£ç>!<—ôŒ;&'¹«·E¯7ý?ÝÚç¿†+Í2×áè¾ ;yÔiG“åpZµJÐ§¢YFˆ|¿§E™OõYª7ÚìÖEýwÂ|é„ù?F s!_ç|®ÊOBy¦­¾•]d]n=`	VÆ=­Ø;WÔW1à‰ªŽ’Îv™©ZwêÏ9nìò‰%$&•Ûï#>QS´ l›$$„¥”œÔjƒ$'µÊ…`™%Í•çû…Å¢#-“´…Æbë"ûrãRûéjùZûVñ6i›|P<dì·ÿ$~¤4kV3iÖ›‚ÍF“ÝžCºíògå]Â—ß¦³Çµož$ûÅCÁg}/‰ÿ¡¼é{Óø}FüPIi|h€«¦è.Çw[s|ÔÍû¶“jÐðÙÄ’%9'¹ O%A§œ>6ñ’Óu‚Ÿh+ƒÐi8$ªš•WÖJß¥êZk‹u»õ9KµT|°ø:Üs.©×y'Ãiw÷¢™¯ãå¶öàN:aÁï‡ŠAò+ª*CvVM0Œú‰Ö¥Î5ªÌ³$9#Y¶]ðKa¿_
+Â{ÎéÁ°®eè¤T9Þ‰¿ZœF%Û'V ¨óèÙPÊ²$aùb¸[ÿÙÔé×Ü
+úý¶£fUºU½Ceê»ÌQ-ºÕºÃÂe—9šé§øÜ– %Ð·Ÿ¤ýùÞ®YvfÝº8´cáÆ’h]ü?§ì£ÁË=±žMWï™²·fª¹÷ÓHAs>"šÊé«÷é™@†=5qú:§Ipâä>2ÃÈÀw|ºzNãÐ@¹k?­ãä^	 ‹ìŠr'_F+OœÞ+e\[Û;77ÔžÜ½ %ÁÉiJ!sØ!7¤ªðª¿÷gMœU3¾á¿¾¨ºœxa¿]$Ó q¾5„s C•A©‚»ÑŸ©0µõý· ‹d^"‡bX,7M?|è‰_çwÏº`ÿžñ}‡ŸhyŠè¯¼ng7ÝõÓìšN±ÛŸüŸç¡¬6 Uð”Õ&£xðƒWV›Õ5Ž;¡Êi¯ÎT}L™¨CÆ6x‡Ïh/ð¼ÍáJ0ljÔ×ðYbgyMqñ°ïaù‘à£ÆQÿQñ¨ôSC1œh1!„”ˆž0gÑ¹ÚôMn·?á’†´ÕÁ/Ó]ê.í <«þÌ<%¼¨ü›þKóÕ¶Ïm7³-#®›•ífh2øv3UeâùÛÍ®EÁÝp&*|Ë™a˜¸ãÌ0t³ºÝÌTEƒªùyFaf®ºáìê¹É{ÎD“ï9Smj/ÕwêUc£¨ìtT¨…8âr±ÄO¢[è3ÂNV?‰½Ôºýiïï¼b†zÙ|Ã<óöyÛËÚ
+ë¼L¿Î;Aw—ñ-eO»*hßf6ßË[û‚ñÚ"ßù¥Õõ±¢ ˆôH¶hòý˜‘"­Ï'UÙ^â³|IÜÖÃ¾gÞ…&jÐ»ÆùÍ7ÛRÓr£/‰ÞÿÊ©¹ã¿gÍtüƒÅ3ú:?œý9½hh|ÖúÙñK„?BNJ° ?w—V¹kßy€«†Ï›z=ã´»Cþ|â•«—Ãàªî6Ø•)]73&gÆZ5lšª1lQCŽmd4'ñ2eM{!ñJ"~"Qc¢ÆÇ³x5—5R¸àUçÆT±9¼ÊØ£
+ŽîÀ›Ï4Ïè2Q‘ŠÕãv“ÖhÒgfë³‚XZ³ÝZ²‡BC‘ÍöæÐæÈ­âvýVë¶ðm‘»õÏYŸ·?º/¼K}\{Ê<l
+¿¥þ.ü'ý¬ùAx"UWÉºÑ–JúŒ~ã.C0jªÑwÇÛl¯n€¡aL(Û¡9X…r¶Â@áÓÔ°¦©!ÜÔ¦‰(€¤ÌkOI±ÔëyÒ€´pÂcl¥£õØŽÍÖÛGlfÑ¾ý­'‹’*:ñÔr2Á€°<0ÁwMö¶ã6	Ö³/™¹
+rH¼³xö!äV<}&nžy½ÿUóv"n¾ÍM$ŽÑJÖ•'¯MÁ¼ëí‡(¡tŒCéxúîomâM:¹lO¼º¿»¨ÖwƒxüK¤hyaWŠ@ÃÔË§“š§…P“»"²7#Vš§øÿ’†ú;Âó¦Í_³ò~müÆ½R¨O^Û7¾¥·qÆí«ºÆ¯}ÂlnLÞ`ÔúšÏ>rË·og7|ôìž¾¡˜—›¡T|òrþp?­žHã.±ÇØs2³i‡ÃÕN?w0Ðu|íÓœ‹ÀÐÂš•v³H‹êRz!»P^ªškéJ¶R^£,7·Ð«ØUòõÊ§é6ùÓÊýônù>åz†%kä<m‘JQþgùe*áW{ÀŒt1¨-üMCƒ]¤l®¢2YUs”AmÎ(ž”É6úðÄêF¸?Ïá“BPecÔØu»_<Ì.'„H8ÌgîêõÇ‚”à†`)ønÐÏ›¿èÜFÔ”î!tl%øµ8Ÿo«1ÌmY,¾p°Ý]©džEÃë¾ÌÙ<‹cXóÍ7zæŸ}ƒï*ðºfðiïd*oL	^ö“-4/ãØ£›z2¦%P?:€©ˆIéìöwCtÏ2c&‚§½y YTähòlkŽÄŠîÙÑ"&¢ç
+8\J4‹ŠÙYÙ•fwf#ÍìŸ†W
+WŸýáÖ[¯§ÿõ ‹í8{Å§•¯¸N‹nÐ Í4õïqÐŽ«€ÿº”‰$7*˜”ÞÞÿp|¢È ý%»fÞšr¾|©
+Ä"E!’‚Œ˜d¢È¸M½*_’ }(ÀMDAC> üŠßï×5DN‘ï›*_æ¿‹C©*—âäTù’'_ªÈ÷|0ºöWò¡‰/WËFÔ4¢h(_†©„+Ü‰çõÉ2Ê×ÑŒgMJ’lêóå+Uðäkø—5€òˆ†Áihí¢@mïSdˆÈùô·ð?Ü“@ôO•¯N’ïÿ›òQ&òÑ,Ê>ä+rÈž/_«q…èZÛó’fèH¢‚·ª†cOš
+î3USýª‚!E,ÓÍ‚UDœðö è —oD7‘1`I¨àíthµ ô†ýDõ™P„¦ª¦ÄÃö¤|Àß•Dô*WˆA,‹!”¯‡,bâÞ­=Àu*ºú¡[êÁ ‚š™d,ìfÁ*@Ö6ª 4<±I8L¬2±ˆ†X…áôVC2 Í£èO	Ê†‚@kk¢%>h³
+Ä"‘±cø f,‚d§KB?¦i˜¦lšôýjÐŸj@ÎŒ@ß*“ŒOÊÇðýØU ®‰ÅH¸ídI¸ÑÚË‚>jÙ1¥¤mY–f*¶ƒ‡Ê&kþò£$'á„+?Žd‹¯sòm¸ ÁìÉ·mÍBùÐìÍ¥Sn¯B@…Ä¨ —MHI&I¬åGÒI$áFkÂ‘P$¬F"	Iiô°Õˆ•´,»µ1ãfÁ* ®©«#‰,2Æê„›`.Äb‘XLÅ jj#ú†±Xm4iË7LúNx^ÐI¢
+Ä’&Ù,I5¢üD.‹$ÜhíA"K$‚‰„Jbjý1=ËB@-ùIß	OË IUèZÀ,il$é&dLµ4"	7Z{JÕ¤RÁT*@jÍèÏª	¦jâ55³§·LúNl£çw	Èjj"ÙVd¬›Þ„$ÜøÇRêê’uuF]­N’úôZðg'ÚdS"™˜;sšû	U!d’L€®l"­­¤a:ÊÏ´·"	7!¹ŠŸL¦6“13Ôé3Ñ_¨ÖÌÔ¶¤’©…ÅŽIß	B4DrUà²	™NfÌ -]È˜ëž$Ü„*~r¹ú\.”Ë¤Þ(¢¿h}(—mÏd³=s&åc„ši­Ðð|¤ƒÌžMÚæ"cë³‘„›™?­­ùÖÖHk«EòVú«ÉGZs³s¹‹üÏA*FÚª 4Ä“t“ùóIg/2¶-šd7þXqNÅO[[k[[¼­Í&{1úKµÆÚZæµ65¯]¶ˆàˆû9H'Hg€†x’H_™³;ú„›?mÉ®Î0i/o]é¶DçôÞéÓ§_½r ?ŸIM‘s#@Ï\H–,!\ŒŒsV,An‚A¸0gNÇœ9µÝs¢¤#º¼ug;Rsf.ž9s&®0Œ_LšäÃ=Þf’êŸe+°VœdÅŠäÿì;¤üB³o˜\økÀù€« žÝ2À€+žìß÷=òÉÉ´ž¥úOÈ5€_ç<¯‘ÇÅ"¹Ñ‹ã‘ªßaò°ø²ø¾êúuùþG0¯­˜ÏÉžZ€Ì‹ ?Í–å _8 a†@ï¼‡þ÷iðfÍ½`þ„Úö{úH“»Á½ü5ý0' ¢K‹,ôK0É¯ ïC6üT[¾ñv²
+ÓBû´7 !
+¶k AD}ßëIÉ3S(í·{fÖužY HuÍ¾I<~È”AÏ,ò’°R{3ÙH¶ed%„¹	èa°ÙJn‚Âjiƒïn¸/ã6[É6r+¹¸2d)¤ÿFr-ðÞjÊÌ$ir)p]KnóF°Jã{8; „™pe ×qÙç‡¶¨O‚Õ`ïÆ°‡¹Åo3„p¸{¡ó§ÙêÕÀéµË'šð\âóá Y)4æãé“O	-ä4 ZF
+µéƒB“P;2/íŒ	£v¤Ãè.àÙdí\Í€ºpà@Y/àiæ&¨w – ÷ <	*PÑ5¸p7àitj…ÔH&mö6	5à·Þ¨!ÄÈ;€€IƒÚ8¸ðAÀÝ€"çC›­€w |—»8Blä¡Nˆ{lä~®^¿¥ƒ“]rí:NŽ~bÈÕ—]âêýK]¶¹.ÛÌ.×º­ÏÕ›¦¹ºë(¡®êG{£B2
+¿TÊž&¥P1?&DH	¢gãöhc¾c÷ÁG¨À
+¯(=qT #ºÕÑ«²	ö´Óììm×…½=´:v÷^Ä~Kö Øoáúû¹ƒÆ4µp7àÀçßÙi¸~×«ìUb°WH;`àzÀÝ€G ß”Ø+ šìWøErÍ=€Œý
+T“ýë— ì˜N±Sµé.vä†B»gHç<C,éìhÇûÅÈ-£òð¦!Gê¡ZèêGr3ÓcB|dþæô{m4SH?Ö;ƒ½@Ê€ðõƒjf —n ¼PÓK`z‰” ¿ø`r¨&`†üàKd ¸Pf'G ˜1öüH¾/Ýe?g?1ÍN°g¹þ3ö×Ê~Ìõç@¯ý8{f¤.Mz5p'àÇÝ½Üýì‡£vz¢×bG íÒ ¶ö ®|PdGXýÈÕi„&Ç¡AŸf#ä÷\ÿù†LœëÓN~!dÀ*ù¹€	”Ý™Ýyæä~HTò<&Tòw}L¨äo»L¨ä·l*ù«¯*ù5ëÁ„J~p%˜@c_?ÐØ”î¼fz¶Ri¤ÒH¥ÄÇvàE>ðaÜ¾2ÒÚ
+)ö¨ShiM—ÑÒS´t)-}ƒ–6ÑÒNZº“–æÓÒ´T ¥-ÕÑ’CK‡éHŠuöM!‹Nœ–ŽÓÒ÷ii˜–ò´”£¥FZÊÐngŒeG–vrm×F{ñ£ý‚Pú,)š…<Ÿ…2á¨ÏNpÊ¦L½Ë\S‡zýhkK·ÍíØÚ»„Çà5#¿ôÁ:Ùè9P{ ×|pPîzˆøƒ\5@mì\xà;€"Î;€Œlõ¢¸‡G¬Ý‹ô Rì\õpeYÖ©5SfÁ\"<˜¢F¬›¨cÝ$ŠýÛ’­1ªïÿ‹þßÑ‰Ò«°ØƒÐBO³/zúƒ#Ô¦Çè®‘üáto„~™Ôù ×Ñ"ÉÓèsÈ0§g‘”ŒzI±ï‚Þ1’ZÞŒ‘ü´ô!D_ûÓ¤^Oÿ>5ÆÀøfêpúåÌ˜Ž¤_›ïîO¿º/ý\û˜6OåÇ(h‡2œõ`jNúûÇ9ëàðèHz'jûÓŸZœ¾!Å6¹WåéKókÒK@^êÊ´32÷§{RW¤ç»\³ÐÏþôˆBÁ5¶Bd[R<Ð†:.ð²î1z3MzXZ-J³¥iš”•ÒR­””Â²-›2tÉeU–eQöÉL&r7r°µy£›”ø¸Ùd¨b#ƒÏ#ÊŒ\DÊ!a€¬è£å£W‘+3å?¯h£ê%kÊþ†>Z¶ÈÀÊ¾òœÂÀ˜4qi¹»0P––_¾z/¥m™Ý;FÉÊÕct­îN–í…x¤µîþBõæ»¿04Ûí=ñ{U¼°ÿc”ž:ih8>Å\[~x`Åêòwj‡Êh˜¨(ÿÃŠÌÚÕéûôÝEýé{¨­>(, ï/ºí…ýCCctç#úðAŽyóÉP1#ÉÈu.ß£._ü_#jÀ§($ÇùrŠÂù|ùö7.êßÛØÈyb2Ìy†c™É<ÇsÀ“Ëqžh‰ç<Ç£%ä)/à,©°Ô¥8MgIÑgYuŽ¥Ýc¹¯ÊrI çxR.~ºÂ£ŸîÿØŸs}<lê+èè¼¡«Ö.ÚÔ°hCÃ¢M€Ê÷o¿.^.]™Éì½j2e!¿áÊ«®C}ã¦òPÃ¦þòUý™½óÖ~ŒóZtž×Ð¿—¬]´rõÞµÎ¦þ‘yÎ¼Eû‡F/ïêžÖ}Õ°º–Œ°å(¬ÃZÜý1ÎÝè¼ÃêÆ°º1¬ÅÎbáy|ùê½2éZ¸ÖÕG™¦B~ÝÌõEÍ›ðÌ;/ß™<­•Ç‰V*úÊ: :Aß­à›B§ XžS|ç¼lò}Üs2ÁÚjè#…m·ßBâ‹6÷»÷0 Xm»ÜUÃÀmQÙÙØ?¼rëŠrÏ%kVï•$°Ý€Tž[±Ó´EcG]Ë6°œ‹–‚PeD»ùh§(ãùïÿOçCö%üé½SG¡‘=$”ëV2(
+V®g]»fõ!hKaõ0<8Lt¸"Ã‹våŸ‚Ï\Ám·x&/-¶yºë¼W’¤
+˜X…jŠmä<úá´
+endstream
+endobj
+97 0 obj
+<</Ascent 905.274/CapHeight 715.82/Descent -211.914/Flags 4/FontBBox[ -664.551 -324.707 2000 1005.86]/FontFile2 96 0 R /FontName/ArialMT/ItalicAngle 0/StemV 45.8984/Type/FontDescriptor>>
+endobj
+98 0 obj
+<</BaseFont/ArialMT/CIDSystemInfo<</Ordering(Identity)/Registry(Adobe)/Supplement 0>>/CIDToGIDMap/Identity/DW 0/FontDescriptor 97 0 R /Subtype/CIDFontType2/Type/Font/W[ 0[ 750 0 0 277.832] 16[ 333.008 277.832] 19 28 556.152 32[ 583.984 0 0 0 666.992 0 722.168 722.168 0 610.84 777.832 0 277.832 0 0 556.152 833.008 722.168 0 666.992 0 722.168 666.992 0 722.168 0 0 666.992] 68 69 556.152 70[ 500 556.152 556.152 277.832 556.152 556.152 222.168 0 500 222.168 833.008] 81 84 556.152 85[ 333.008 500 277.832 556.152 500 722.168] 91 93 500]>>
+endobj
+99 0 obj
+<</Filter/FlateDecode/Length 326>>stream
+xœ]RËnƒ0¼û+|L˜GBJH#qèC¥ý b/)R1–!þ¾ÆCR©–Œ5³;»cÖAQžJÝŽ<x·½¬häM«•¥¡¿YIüB×V3qÕÊqAþ+»Ú°À‰«i©+uÓ³,ã<øpÑa´_T¡'¼YE¶ÕW¾ú**‡«›1?Ô‘yÈòœ+j\¥—Ú¼ÖñÀËÖ¥rñvœÖNó—ñ9â‘Çnd¯h0µ$[ë+±,t+çÙÙ­œ‘Vÿâ[¨.ü®­ÏŽ]vFaÎpÌ(>%%¨ Ú{C—Bï€R #ÐÎ;XzíîFš	è)PW Y¼ØÚ e1È=ÈÈÈ3t¨™ð“‚D•4òd’ÜSæcƒ;&ÏH9<.€åùoÎSŒJÞ¬uSòOÃgL«éñzLofÕ¼¦t©¼
+endstream
+endobj
+100 0 obj
+<</Filter/FlateDecode/Length 44>>stream
+xœ+T0 B3C#sK#…¢T…p-…<=K3CsS3°,*/9W )µ
+ë
+endstream
+endobj
+101 0 obj
+<</Filter/FlateDecode/Length 10>>stream
+xœS  “ r
+endstream
+endobj
+102 0 obj
+[ 100 0 R  43 0 R  101 0 R ]
+endobj
+103 0 obj
+<</Filter/FlateDecode/Length 44>>stream
+xœ+T0 B3C#sK#…¢T…p-…<=K3CsS3°,*/9W )µ
+ë
+endstream
+endobj
+104 0 obj
+<</Filter/FlateDecode/Length 10>>stream
+xœS  “ r
+endstream
+endobj
+105 0 obj
+[ 103 0 R  82 0 R  104 0 R ]
+endobj
+106 0 obj
+<</Filter/FlateDecode/Length 44>>stream
+xœ+T0 B3C#sK#…¢T…p-…<=K3CsS3°,*/9W )µ
+ë
+endstream
+endobj
+107 0 obj
+<</Filter/FlateDecode/Length 10>>stream
+xœS  “ r
+endstream
+endobj
+108 0 obj
+[ 106 0 R  93 0 R  107 0 R ]
+endobj
+xref
+0 109
+0000000000 65535 f
+0000000017 00000 n
+0000000113 00000 n
+0000000626 00000 n
+0000000664 00000 n
+0000000792 00000 n
+0000000870 00000 n
+0000001358 00000 n
+0000001854 00000 n
+0000002342 00000 n
+0000002829 00000 n
+0000003316 00000 n
+0000003830 00000 n
+0000004330 00000 n
+0000004827 00000 n
+0000005320 00000 n
+0000005819 00000 n
+0000006298 00000 n
+0000006804 00000 n
+0000007300 00000 n
+0000007803 00000 n
+0000008305 00000 n
+0000008800 00000 n
+0000009299 00000 n
+0000009782 00000 n
+0000010286 00000 n
+0000010786 00000 n
+0000011287 00000 n
+0000011770 00000 n
+0000012256 00000 n
+0000012749 00000 n
+0000013258 00000 n
+0000013764 00000 n
+0000014264 00000 n
+0000014772 00000 n
+0000015267 00000 n
+0000015776 00000 n
+0000016271 00000 n
+0000016763 00000 n
+0000017251 00000 n
+0000017744 00000 n
+0000018254 00000 n
+0000018761 00000 n
+0000019254 00000 n
+0000021977 00000 n
+0000022495 00000 n
+0000023002 00000 n
+0000023490 00000 n
+0000023976 00000 n
+0000024466 00000 n
+0000024963 00000 n
+0000025443 00000 n
+0000025955 00000 n
+0000026443 00000 n
+0000026927 00000 n
+0000027448 00000 n
+0000027933 00000 n
+0000028436 00000 n
+0000028935 00000 n
+0000029424 00000 n
+0000029935 00000 n
+0000030443 00000 n
+0000030937 00000 n
+0000031427 00000 n
+0000031931 00000 n
+0000032431 00000 n
+0000032916 00000 n
+0000033421 00000 n
+0000033907 00000 n
+0000034415 00000 n
+0000034919 00000 n
+0000035422 00000 n
+0000035923 00000 n
+0000036414 00000 n
+0000036909 00000 n
+0000037401 00000 n
+0000037898 00000 n
+0000038397 00000 n
+0000038885 00000 n
+0000039392 00000 n
+0000039875 00000 n
+0000040383 00000 n
+0000040895 00000 n
+0000043881 00000 n
+0000044175 00000 n
+0000044662 00000 n
+0000045155 00000 n
+0000045665 00000 n
+0000046203 00000 n
+0000046732 00000 n
+0000047239 00000 n
+0000047728 00000 n
+0000048224 00000 n
+0000048701 00000 n
+0000049926 00000 n
+0000049999 00000 n
+0000050050 00000 n
+0000075830 00000 n
+0000076036 00000 n
+0000076594 00000 n
+0000076993 00000 n
+0000077110 00000 n
+0000077193 00000 n
+0000077242 00000 n
+0000077359 00000 n
+0000077442 00000 n
+0000077491 00000 n
+0000077608 00000 n
+0000077691 00000 n
+trailer
+<</Info 1 0 R /Root 95 0 R /Size 109/ID[<1F519F70EC488B843C3538CADCDC593F><1F519F70EC488B843C3538CADCDC593F>]>>
+startxref
+77740
+%%EOF
