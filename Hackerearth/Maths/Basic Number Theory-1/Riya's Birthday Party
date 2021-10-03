@@ -1,0 +1,33 @@
+#include<bits/stdc++.h>
+using namespace std;
+#define mod 1000000007
+#define lli long long int 
+ 
+int main()
+{
+  /*Brute force:-	
+    FORMULA --> arr[i-1]= ( (arr[i-2]+a[i])/2 -2 )
+    lli arr[mod];
+	arr[0]=1;
+	arr[1]=6;
+	for(lli i =2;i<mod;i++)
+	arr[i]=(2*(arr[i-1]+2) - arr[i-2])%mod;
+  */
+  
+  /* OPTIMIZED APPROACH -> the difference in terms of this series is in AP 
+  	like a1= 1 ,a2= 6 ,a3= 15,a4= 28,a5= 45 therefore the difference between them 	is like 5 , 9 , 13, 17 , 21 .... so this is an AP with common difference of 4 	therefore formula of aN term is= 1 + (2N+1)(N-1) .
+ 
+  */	
+  
+  	int t;
+	cin >> t;                                        
+	while(t--)
+	{
+		lli n;
+		cin >> n;
+		cout <<(1 + ((( 2*n + 1 )%mod )*(( n-1 )%mod )))%
+		mod<<endl;
+		
+	}
+	return 0;
+}
