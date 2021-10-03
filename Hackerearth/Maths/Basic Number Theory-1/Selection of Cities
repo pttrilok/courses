@@ -1,0 +1,36 @@
+// Ques link - https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/selection-of-cities-2/
+// Submission link - https://www.hackerearth.com/submission/57905124/
+
+code-
+
+#include<bits/stdc++.h>
+using namespace std;
+#define lli long long int
+#define mod 1000000007
+ 
+lli Pow(lli x,lli n,lli M)
+{
+   lli result=1;
+   while(n>0)
+   {
+      if(n % 2 ==1)    //if n is odd
+         result=((result%M) * (x%M)%M);
+ 
+      x=((x%M)*(x%M)%M);   //if n is even
+      n=n/2;
+   }
+   return result;
+}
+int main()
+{
+   lli t;
+   cin>>t;
+ 
+   while(t--)
+   {
+      lli m;
+      cin>>m;
+      cout<<Pow(2, m, mod)-1<<endl;   // 2^m -1 :- formula from  set theory.
+   }
+   return 0;
+}
