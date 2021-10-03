@@ -1,0 +1,36 @@
+// Ques link - https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/panda-and-chain-reaction/
+// Submission link - https://www.hackerearth.com/submission/57804885/
+
+#include<bits/stdc++.h>
+using namespace std;
+#define lli long long int
+#define mod 1000003
+ 
+/* APPROACH -->
+	ch0 =X, ch1 =1*X,ch2 =2*1*X,ch3 =3*2*1*X,ch4 =4*3*2*1*X,		......... chN = N! * X.
+	for that we have calculated an array of factorial of all 		numbers from 1 to 10^6+3.
+	and then we have multiplied the factorial(N) with X given.
+*/
+ 
+int main()
+{
+ 	lli arr[mod];
+	arr[0]=1;
+ 
+	for(lli i=1;i<mod;i++)
+		{
+			arr[i]=(arr[i-1]*i)%mod;
+		}
+	 int t;
+	 cin>>t;
+	 while(t--)
+	{
+		lli n,x;
+		cin>>n>>x;
+		if(n>mod)
+			cout<<0<<endl;
+		else
+			cout<<(arr[n]*x)%mod<<endl;
+	}
+ 
+}
