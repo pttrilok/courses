@@ -1,6 +1,6 @@
-Ques link- https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/riyas-birthday-party-1/
-Submission link - https://www.hackerearth.com/submission/57786142/
-Code -
+//Ques link- https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/riyas-birthday-party-1/
+//Submission link - https://www.hackerearth.com/submission/57786142/
+//Code -
 
 #include<bits/stdc++.h>
 using namespace std;
