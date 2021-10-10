@@ -1,0 +1,30 @@
+// Question Link : https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/beautiful-journey-1/
+// Code : 
+
+#include<bits/stdc++.h>
+using namespace std;
+
+#define ll long long 
+
+int main() {
+    int n; cin >> n;
+    ll a[n],pref[n+1];
+
+    pref[0]=0;
+    for(int i=0;i<n;i++){
+        cin >> a[i];
+        pref[i+1]=pref[i]+a[i];  
+    }
+    ll ans=0;
+
+    for(int i=0;i<n;i++){
+        ll first= pref[i+1];
+        ll second = pref[n]-pref[i+1];
+
+        ans=max(ans,first*second);
+    }
+
+    cout << ans ;
+
+	return 0;
+}
