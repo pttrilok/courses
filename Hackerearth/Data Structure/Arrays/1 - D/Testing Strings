@@ -1,0 +1,68 @@
+// Question Link : https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/testing-strings-d1f28949/
+// Code : 
+
+#include<bits/stdc++.h>
+using namespace  std;
+int mod=1000003;
+int n,m,k;
+vector<int> ar[100002];
+int freq[100002];
+set<int>s;
+
+void updater(int l,int r,int z)
+{
+    ar[l].push_back(z);
+    ar[r+1].push_back(-z);
+  //  cout<<"+x updated at "<<l<<" -x updated at "<<r<<endl;
+}
+
+void printer()
+{ long long int ans=1;
+ int temp = 0;
+ int curr_val;
+    for(int i=1;i<=m;i++)
+    {
+       // cout<<"printing set value for i = "<<i<<endl;
+       
+        for(int j= 0;j < ar[i].size();j++)
+        {
+            if(ar[i][j] > 0)
+            {
+                s.insert(ar[i][j]);
+                freq[ar[i][j]]++;
+                //cout<<"frequency of "<<ar[i][j]<<" ==> "<<freq[ar[i][j]]<<endl;
+            }
+            if(ar[i][j] < 0)
+            {
+                //cout<<"negative val received as "<<ar[i][j]<<endl;
+                 freq[-1*ar[i][j]]--;
+                //cout<<"frequency of "<<-1*ar[i][j]<<" ==> "<<freq[-1*ar[i][j]]<<endl;        
+                if(freq[-ar[i][j]] == 0)
+                    s.erase(-1*ar[i][j]);
+                
+            }
+        }
+       //  print_set();
+        temp = s.size();
+       curr_val = k - temp;
+        ans = (ans*curr_val) % mod ;
+    }
+    cout<<ans%mod;
+}
+int main()
+{
+   
+    cin>>n>>m>>k;
+    for(int i=0;i<=m;i++)
+        freq[i] =0;
+    while(n--)
+    { long long int l,r,z;
+        cin>>l>>r>>z;
+        updater(l,r,z);
+      
+    }
+   //display();
+    printer();
+    
+    
+}
