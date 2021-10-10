@@ -1,0 +1,39 @@
+// Ques link : https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/in-an-array-9fbe4c12/
+// Code : 
+
+#include<bits/stdc++.h>
+using namespace std;
+
+#define ll long long 
+
+int main(){
+
+	int n,k,x,y; cin >> n >> k >> x >> y;
+	ll a[1001]={0};  // to count freq of all elements
+	for(int i=0;i<n;i++){
+		int b; cin >> b;
+		a[b]++;
+	}
+
+	ll ans=0;
+	for(int i=1;i<1001;i++){
+		if(a[i]==0)  // becoz element is not present
+		continue;
+
+		for(int j=i;j<1001;j++){  // check elements which satisfies given conditions
+			if((i + j)%k==x && (i * j)%k==y){
+				if(i==j)  // if same number ,then nC2 ways to get 
+				ans+= (a[i]*(a[i]-1))/2;
+				else   // if different numbers then simply multiply their freq.
+				ans+= a[i]*a[j];
+			}
+		}
+
+		
+	}
+	cout << ans ;
+    
+
+
+	return 0;
+}
