@@ -1,0 +1,25 @@
+// Question Link : https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/mark-the-answer-1/
+// Code : 
+
+#include<bits/stdc++.h>
+using namespace std;
+
+#define ll long long 
+
+int main(){
+
+    ll n,x; cin >> n >> x;
+	int c=2,ans=0;
+	while(ans<n && c){
+		ll a; cin >> a;
+		if(a>x)
+		c--;
+		else
+		ans++;
+	}
+	
+	cout << ans ;
+
+
+	return 0;
+}
