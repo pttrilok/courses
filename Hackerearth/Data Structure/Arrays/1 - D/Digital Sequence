@@ -1,0 +1,32 @@
+// Question link : https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/digitial-sequence-ee0ea080/
+// Code : 
+
+#include<bits/stdc++.h>
+using namespace std;
+
+#define ll long long 
+
+int main(){
+	int n; cin >> n;
+	map<ll,int>m;
+	for(int i=0;i<n;i++){
+		ll a; cin >> a;
+		set<ll>s;
+		while(a){
+			s.insert(a%10); 
+			a/=10;
+		}
+		for(auto i:s)
+		m[i]++;
+	}
+	int ans=0;
+	for(auto i:m){
+		ans=max(ans,i.second);
+	}
+
+	cout << ans;
+    
+
+
+	return 0;
+}
