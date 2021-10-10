@@ -1,0 +1,76 @@
+// Question Link : https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/the-amazing-race-1/
+// Code : 
+
+#include<bits/stdc++.h>
+using namespace std;
+
+#define ll long long
+
+const ll mod=1e9+7;
+
+int main(){
+
+	int t; cin >> t;
+	
+	while(t--){
+		ll n; cin >> n;
+		ll a[n],left[n],right[n]; //forming left and right array of sight with the help of stack
+
+		for(int i=0;i<n;i++) cin >> a[i];
+
+		stack<ll>st;
+		st.push(0);
+		ll ind=1;
+		left[0]=0;
+		
+		while(ind<n){
+			while(!st.empty() && a[st.top()]<a[ind])
+			st.pop();
+
+			if(st.empty())
+			left[ind]=ind;
+			else
+			left[ind]=ind-st.top();
+            
+            st.push(ind);
+			ind++;
+		}
+
+		while(!st.empty())
+		st.pop();
+
+		right[n-1]=0;
+		ind=n-2;
+		st.push(n-1);
+
+		while(ind>=0){
+			while(!st.empty() && a[st.top()]<a[ind])
+			st.pop();
+
+			if(st.empty())
+			right[ind]=n-1 -ind;
+			else
+			right[ind]=st.top() - ind;
+	
+            st.push(ind);
+			ind--;
+		}
+		ind=-1;
+		ll ans=-1;
+		for(ll i=0;i<n;i++){
+			ll s= left[i] + right[i];
+			ll total = ((s%mod)*(i+1))%mod;
+			if(ans<total){
+				ans=total;
+				ind=i+1;
+			}
+			
+		}
+
+		cout << ind << '\n';
+	}
+    
+
+
+	return 0;
+}
