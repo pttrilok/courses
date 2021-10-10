@@ -1,0 +1,37 @@
+// Question link : https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/perfect-subarray-43560f46/
+// Code : 
+
+#include<bits/stdc++.h>
+using namespace std;
+
+#define ll long long 
+
+bool isperfect(ll n){ if(n>=0){ ll a=sqrt(n); return (a*a==n);} return false;}
+
+int main(){
+
+	int n; cin >> n;
+	ll a[n],pref[n+1];
+	pref[0]=0;
+	for(int i=0;i<n;i++){
+		cin >> a[i];
+		pref[i+1]=pref[i] + a[i]; // prefix array
+	}
+	int ans=0;
+	for(int i=0;i<n;i++){
+		int start=i+1,end=i+1;
+		while(end<=n){
+			ll sum= pref[end] - pref[start-1]; // req sum
+			if(isperfect(sum))  // checking if perfect square
+			ans++;
+
+			end++;
+		}
+	}
+
+	cout << ans ;
+    
+
+
+	return 0;
+}
