@@ -1,0 +1,26 @@
+//Question -> https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/prefpref/
+
+// Write your code here
+#include<bits/stdc++.h>
+ 
+using namespace std;
+ 
+string st1,st2;
+int ptr;
+ 
+int main(){
+ios_base::sync_with_stdio(0);
+ 
+cin>>st1>>st2;
+ 
+ptr=0;
+for (int i=0;i<st2.size();i++)
+{
+ if (ptr==st1.size())
+ break;
+ 
+if (st2[i]==st1[ptr])
+ ++ptr;
+}
+cout<<ptr<<endl;
+return 0;}
