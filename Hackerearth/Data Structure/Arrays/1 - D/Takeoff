@@ -1,0 +1,41 @@
+// Ques link - https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/no-sharing-capillary-82ed3fe2/
+
+#include<bits/stdc++.h>
+using namespace std;
+
+#define ll long long 
+
+
+int main(){
+
+	int t; cin >> t;
+	while(t--){
+		int n,a,b,c; cin >> n >> a >> b >> c;
+		int ans=0;
+		for(int i=a;i<=n;i+=a){
+			if(i%b==0 || i%c==0)
+			continue;
+			else
+			ans++;
+		}
+		for(int i=b;i<=n;i+=b){
+			if(i%a==0 || i%c==0)
+			continue;
+			else
+			ans++;
+		}
+		for(int i=c;i<=n;i+=c){
+			if(i%b==0 || i%a==0)
+			continue;
+			else
+			ans++;
+		}
+
+		cout << ans << '\n';
+	}
+
+    
+
+
+	return 0;
+}
