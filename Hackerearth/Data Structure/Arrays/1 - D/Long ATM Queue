@@ -1,0 +1,25 @@
+// Ques link - https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/long-atm-queue-3/
+
+#include<bits/stdc++.h>
+using namespace std;
+
+#define ll long long 
+
+int main(){
+
+	int n; cin >> n;
+	int prev=0;
+	int ans=1;
+	while(n--){
+		int a; cin >> a;
+		if(a>=prev)
+		prev=a;
+		else
+		ans++,prev=a;
+	}
+	cout << ans;
+    
+
+
+	return 0;
+}
