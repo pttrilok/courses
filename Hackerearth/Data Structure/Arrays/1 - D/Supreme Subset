@@ -1,0 +1,45 @@
+// Ques link - https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/supreme-subset-bb866a75/
+
+#include<bits/stdc++.h>
+using namespace std;
+
+#define ll long long 
+
+int main(){
+
+	int n,m; cin >> n >> m;
+	int a[n];
+	map<int,int>ma;
+	for(int i=0;i<n;i++){
+		cin >> a[i];
+		ma[a[i]%m]++;
+	}
+	int max_m=-1,max_s=0;
+	for(auto i:ma){
+		if(i.second>max_s)
+		max_s=i.second;	
+	}
+	vector<int>ans;
+	sort(a,a+n);
+
+	for(int i=0;i<n;i++){
+		if(max_m==-1){
+			if(max_s== ma[a[i]%m]){
+				ans.push_back(a[i]);
+				max_m=a[i]%m;
+			}
+		}else if(a[i]%m==max_m)
+		ans.push_back(a[i]);
+	}
+
+	cout << ans.size() << '\n';
+	for(auto i:ans)
+	cout << i << ' ';
+	cout << '\n';
+
+
+    
+
+
+	return 0;
+}
