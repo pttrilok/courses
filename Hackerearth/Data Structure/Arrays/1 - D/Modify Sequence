@@ -1,0 +1,34 @@
+// Ques link - https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/modify-sequence/
+
+#include<bits/stdc++.h>
+using namespace std;
+
+#define ll long long 
+
+int main(){
+	
+	int n; cin >> n;
+	int a[n];
+	for(int i=0;i<n;i++) cin >> a[i];
+
+	bool check=true;
+	
+	for(int i=0;i<n-1;i++){
+		if(a[i+1]>=a[i]){
+			a[i+1]-=a[i];
+			a[i]=0;
+		}else{
+			check=false;
+			break;
+		}
+	}
+
+	if(check && a[n-1]==0)
+	cout << "YES";
+	else
+	cout << "NO";
+    
+
+
+	return 0;
+}
