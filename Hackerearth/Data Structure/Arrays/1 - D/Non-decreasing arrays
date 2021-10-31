@@ -1,0 +1,35 @@
+// Ques link - https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/make-it-non-decreasing-7d3391fd/
+
+#include<bits/stdc++.h>
+using namespace std;
+
+#define ll long long 
+
+int main(){
+	int t; cin >> t;
+    while(t--){
+        int n; cin >> n;
+        ll a[n];
+        for(int i=0;i<n;i++) cin >> a[i];
+    
+        ll b[n];
+        b[0]=a[0];
+        for(int i=1;i<n;i++){
+            if(a[i]>=b[i-1])
+            b[i]=a[i];
+            else{
+                ll ans=a[i];
+                ll c=b[i-1];
+                ll d=c/ans;
+                if(d*ans==c)
+                b[i]=d*ans;
+                else
+                b[i]=(d+1)*ans;
+            }
+        }
+        for(int i=0;i<n;i++)
+        cout << b[i] << ' ';
+
+        cout << '\n';
+    }
+}
