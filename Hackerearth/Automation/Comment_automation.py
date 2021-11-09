@@ -64,8 +64,8 @@ def do_comment(user,passw,Link,titles,comments,youtube,github,driver):
     os.remove("Links.txt")
     web.close()
 
-Username="Geeksman"
-Password="Ritik@123"
+Username="ma"
+Password="23"
 Links=["https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/","https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisible-or-not-81b86ad7/","https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/split-house-547be0e9/"]
 Titles=["TGY","TGY","TGY"]
 Comments=["easy","easy","easy"]
