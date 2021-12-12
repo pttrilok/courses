@@ -1,0 +1,40 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+import time
+
+def do_comment(user,passw,links,titles,comments,driver):
+    web=webdriver.Chrome(driver)
+    web.get("https://www.hackerearth.com/")
+    login=web.find_element(By.CLASS_NAME, 'buttonText')
+    login.click()
+    data=web.find_elements(By.CLASS_NAME,'inputField')
+    data[0].send_keys(user)
+    data[1].send_keys(passw)
+    submit=web.find_element(By.CLASS_NAME,'submitButton')
+    submit.click()
+    for i in range(len(links)):
+        time.sleep(2)
+        java="window.location.replace('"+links[i]+"')"
+        print(java)
+        web.execute_script(java)
+        discussion=web.find_element(By.LINK_TEXT,'Discussion')
+        discussion.click()
+        add_topic=web.find_element(By.LINK_TEXT,'Add Topic')
+        add_topic.click()
+        title=web.find_element(By.CLASS_NAME, 'topic-title')
+        title.send_keys(titles[i])
+        comment=web.find_element(By.CSS_SELECTOR, 'div.ck.ck-content.ck-editor__editable.ck-rounded-corners.ck-editor__editable_inline.ck-blurred')
+        comment.send_keys(comments[i])
+        publish=web.find_element(By.CSS_SELECTOR, 'button.btn.btn-blue.btn-large-nuskha.margin-left-8')
+        print("published")
+        publish.click()
+        print("comment "+str(i))
+    time.sleep(2)
+
+# Username="Geeksman"
+# Password="Ritik@123"
+# Links=["https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/","https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisible-or-not-81b86ad7/","https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/split-house-547be0e9/"]
+# Titles=["TGY","TGY","TGY"]
+# Comments=["easy","easy","easy"]
+# Driver="C:/Users/LENOVO/Downloads/chromedriver_win32/chromedriver"
+# do_comment(Username, Password, Links, Titles, Comments, Driver)
