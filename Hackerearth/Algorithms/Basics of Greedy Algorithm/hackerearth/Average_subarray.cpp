@@ -1,3 +1,5 @@
+//Ques Link-> https://www.hackerearth.com/problem/algorithm/average-subarray-7b376ebf/
+
 #include<bits/stdc++.h>
 using namespace std;
 
