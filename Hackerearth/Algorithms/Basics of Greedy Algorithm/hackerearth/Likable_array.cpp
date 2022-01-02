@@ -1,3 +1,5 @@
+//Ques Link-> https://www.hackerearth.com/problem/algorithm/likeable-array-3e61d786/
+
 #include <bits/stdc++.h>
 #define ll long long
 using namespace std;
