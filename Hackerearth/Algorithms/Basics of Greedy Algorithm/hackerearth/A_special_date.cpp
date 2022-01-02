@@ -1,3 +1,5 @@
+//Ques Link -> https://www.hackerearth.com/problem/algorithm/lucky-birth-date-fa83abfe/
+
 #include "bits/stdc++.h"
 using namespace std;
 #define ll long long
