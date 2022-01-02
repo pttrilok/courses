@@ -1,3 +1,5 @@
+//Ques Link -> https://www.hackerearth.com/problem/algorithm/paint-box-3e9796fd/
+
 #include<iostream>
 #include<algorithm>
 using namespace std;
