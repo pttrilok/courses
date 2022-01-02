@@ -1,3 +1,5 @@
+//Ques Link -> https://www.hackerearth.com/problem/algorithm/lucky-confusion-2c714d08/
+
 #include<iostream>
 using namespace std;
 #define ll long long
